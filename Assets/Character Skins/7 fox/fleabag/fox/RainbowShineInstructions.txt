@@ -1,0 +1,9 @@
+Costume Slot 45
+
+Up to date with P+ 3.1.1
+
+PSA Edits by ilikepizza107
+
+PSA Edited:
+
+Sub Action 1E1, GFX; Sub Action 1E5, GFX

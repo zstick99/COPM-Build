@@ -1,0 +1,56 @@
+Credit to CSProject team and tyle for their respective CSProjects
+Credit to SSK and KingJigglypuff, along with ilikepizza107, for the PSA edits, allowing for sword glows on a specific costume. Changes are further detailed below
+
+FitMarth.pac uses P+ 3.0.2 FitMarth.pac, with the following edits:
+
+Added Subroutine 2x7918 - Cotains an If/Else block to use custom sword trail and glow model if on costume 40, and to use the normal trail and glow model otherwise. (For most main attacks)
+Added Subroutine 2x7968 - Cotains an If/Else block to use custom sword trail and glow model if on costume 40, and to use the normal trail and glow model otherwise. (For most getup type attacks and counter hit)
+Added Subroutine 2x7B30 - Cotains an If/Else block to use custom sword trail and glow model if on costume 40, and to use the normal trail and glow model otherwise. (For most final smash subactions)
+
+Added texture eff_marth_sword_flare_custom for custom sword glow model
+Added new Model Data [3] that contains an extra custom sword glow model using the eff_marth_sword_flare_custom texture for its color
+Added extra EFLS node that uses BRRES 3(model data 3) to properly allow for the new sword glow model
+Added Custom Effect bank 44 to Marth containing an extra trail texture for his regular and shield breaker slashes. Associated sword trail ids are 335 and 336, in that order.
+If desired to change the custom effect bank, use this link to know what to rename the textures and bank, as well as what the new sword trail ids will be: https://docs.google.com/spreadsheets/d/16CSOk-aEq-85Bm2V0kWNfKRZ5_Py0MPj7dMhGcf6ylE/edit#gid=80906371
+
+
+Subaction		SubactionID	Changes
+Attack11		48		Replaced Sword Glow with Sub Routine: 2x7918
+Attack12		49		Replaced Sword Glow with Sub Routine: 2x7918
+AttackDash		4E		Replaced Sword Glow with Sub Routine: 2x7918
+AttackS3S		50		Replaced Sword Glow with Sub Routine: 2x7918
+AttackHi3		54		Replaced Sword Glow with Sub Routine: 2x7918
+AttackLw3		55		Replaced Sword Glow with Sub Routine: 2x7918
+AttackS4S		58		Replaced Sword Glow with Sub Routine: 2x7918
+AttackHi4		5D		Replaced Sword Glow with Sub Routine: 2x7918
+AttackLw4		60		Replaced Sword Glows with Sub Routine: 2x7918
+AttackAirN		62		Replaced Sword Glows with Sub Routine: 2x7918
+AttackAirF		63		Replaced Sword Glow with Sub Routine: 2x7918
+AttackAirB		64		Replaced Sword Glow with Sub Routine: 2x7918
+AttackAirHi		65		Replaced Sword Glow with Sub Routine: 2x7918
+AttackAirLw		66		Replaced Sword Glow with Sub Routine: 2x7918
+DownAttackU		B0		Replaced Sword Glows with Sub Routine: 2x7968
+DownAttackD		B9		Replaced Sword Glow with Sub Routine: 2x7968
+CliffAttackQuick	D7		Replaced Sword Glow with Sub Routine: 2x7968
+CliffAttackSlow		DC		Replaced Sword Glow with Sub Routine: 2x7968
+SlipAttack		E7		Replaced Sword Glow with Sub Routine: 2x7968
+SpecialNEnd		1D0		Replaced Sword Glow with If/Else block to use custom ShieldBreaker sword trail if on costume 40, and to use the normal trail otherwise
+SpecialNEnd		1D1		Replaced Sword Glow with If/Else block to use custom ShieldBreaker sword trail if on costume 40, and to use the normal trail otherwise
+SpecialS1		1D6		Replaced Sword Glow with Sub Routine: 2x7918
+SpecialS2Hi		1D7		Replaced Sword Glow with Sub Routine: 2x7918
+SpecialS2Lw		1D8		Replaced Sword Glow with Sub Routine: 2x7918
+SpecialS3Hi		1D9		Replaced Sword Glow with Sub Routine: 2x7918
+SpecialS3S		1DA		Replaced Sword Glow with Sub Routine: 2x7918
+SpecialS3Lw		1DB		Replaced Sword Glow with Sub Routine: 2x7918
+SpecialS4Hi		1DC		Replaced Sword Glow with Sub Routine: 2x7918
+SpecialS4S		1DD		Replaced Sword Glow with Sub Routine: 2x7918
+SpecialS4Lw		1DE		Replaced Sword Glow with Sub Routine: 2x7918
+SpecialHi		1E8		Replaced Sword Glow with Sub Routine: 2x7918
+SpecialLwHit		1EB		Replaced Sword Glow with Sub Routine: 2x7968
+FinalStart		1EE		Replaced Sword Glow with Sub Routine: 2x7B30
+FinalDash		1EF		Replaced Sword Glow with If/Else block to use custom sword trail and glow model if on costume 40, and to use the normal trail and glow model otherwise
+FinalDashEnd		1F0		Replaced Sword Glow with Sub Routine: 2x7B30
+FinalEnd		1F1		Replaced Sword Glow with Sub Routine: 2x7B30
+FinalAirStart		1F2		Replaced Sword Glow with Sub Routine: 2x7B30
+FinalAirDashEnd		1F3		Replaced Sword Glow with Sub Routine: 2x7B30
+FinalAirEnd		1F4		Replaced Sword Glow with Sub Routine: 2x7B30

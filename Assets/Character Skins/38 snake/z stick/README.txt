@@ -1,0 +1,1 @@
+Snake's CSP file in selcharacter.pac is nearing it's limit. Colorsmash this skin with the Brawl red costume to save space.

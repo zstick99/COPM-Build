@@ -1,0 +1,5 @@
+SJS for the Sunglasses model and textures
+T+DT for the Yoshi .blend scene
+CSProject for the Yoshi .blend scene
+Textures by Z-Stick
+Model import + cleanup by ilikepizza107
