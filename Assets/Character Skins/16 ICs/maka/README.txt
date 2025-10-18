@@ -1,1 +1,0 @@
-Popo leads, so use an even numbered slot please.
