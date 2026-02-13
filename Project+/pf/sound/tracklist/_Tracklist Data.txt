@@ -1,5 +1,5 @@
 ################
-Battlefield.tlst - 14 tracks
+Battlefield.tlst - 10 tracks
 
 	Noontide (Guilty Gear X2)
 	Guilty Gear/Noontide.brstm
@@ -31,16 +31,6 @@ Battlefield.tlst - 14 tracks
 	Volume: 110
 	Frequency: 40
 
-	Destructive Goodwill (Guilty Gear Xrd)
-	Guilty Gear/Destructive Goodwill.brstm
-	Volume: 100
-	Frequency: 40
-
-	Mechanical Rhythm (Xenoblade Chronicles)
-	Xenoblade/Mechanical Rhythm.brstm
-	Volume: 80
-	Frequency: 40
-
 	Unfinished Battle (Xenoblade Chronicles)
 	Xenoblade/Unfinished Battle.brstm
 	Volume: 80
@@ -51,11 +41,6 @@ Battlefield.tlst - 14 tracks
 	Volume: 80
 	Frequency: 40
 
-	Magnificent Palace (Muramasa: The Demon Blade)
-	Muramasa/Magnificent Palace.brstm
-	Volume: 80
-	Frequency: 40
-
 	Guardian of The Former Seas (Terraria Calamity)
 	Terraria/Guardian of The Former Seas.brstm
 	Volume: 75
@@ -63,11 +48,6 @@ Battlefield.tlst - 14 tracks
 
 	Vainglorious Chorus (Neon White)
 	Neon White/Vainglorious Chorus.brstm
-	Volume: 80
-	Frequency: 40
-
-	Blooming Villain (Persona 5)
-	Persona/Blooming Villain.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -246,7 +226,7 @@ Castle_Siege.tlst - 11 tracks
 	Frequency: 40
 
 ################
-Ceres_Space_Colony.tlst - 6 tracks
+Ceres_Space_Colony.tlst - 5 tracks
 
 	Chum Bucket Lab (Battle for Bikini Bottom)
 	SpongeBob/Chum Bucket Lab (Rehydrated).brstm
@@ -255,11 +235,6 @@ Ceres_Space_Colony.tlst - 6 tracks
 
 	Amalgam (UNDERTALE)
 	UTDR/Amalgam.brstm
-	Volume: 80
-	Frequency: 40
-
-	Black Knife (DELTARUNE)
-	UTDR/Black Knife.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -721,16 +696,11 @@ Draculas_Castle.tlst - 2 tracks
 	Frequency: 40
 
 ################
-Dream_Land.tlst - 12 tracks
+Dream_Land.tlst - 11 tracks
 
 	Ripple Star Map
 	Kirby/Ripple Star Map.brstm
 	Volume: 60
-	Frequency: 40
-
-	Tough Guy Alert! (Bowser's Inside Story)
-	Mario/Tough Guy Alert!.brstm
-	Volume: 110
 	Frequency: 40
 
 	Popular Potpourri (VVVVVV)
@@ -748,9 +718,9 @@ Dream_Land.tlst - 12 tracks
 	Volume: 100
 	Frequency: 40
 
-	Slicing The Wind (Cladun)
-	Cladun/Slicing The Wind.brstm
-	Volume: 80
+	Steam Gardens (Super Mario Odyssey)
+	Mario/Steam Gardens.brstm
+	Volume: 85
 	Frequency: 40
 
 	To Our Surprise (Kingdom Hearts)
@@ -758,13 +728,13 @@ Dream_Land.tlst - 12 tracks
 	Volume: 115
 	Frequency: 40
 
-	Slap In The Park (Slap City)
-	Slap City/Slap In The Park.brstm
-	Volume: 90
+	Slicing The Wind (Cladun)
+	Cladun/Slicing The Wind.brstm
+	Volume: 80
 	Frequency: 40
 
-	Field of Hopes and Dreams (DELTARUNE)
-	UTDR/Field of Hopes and Dreams.brstm
+	Blossoms Falling in Confusion (Muramasa)
+	Muramasa/Blossoms Falling in Confusion.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -773,9 +743,9 @@ Dream_Land.tlst - 12 tracks
 	Volume: 110
 	Frequency: 40
 
-	Blossoms Falling in Confusion (Muramasa)
-	Muramasa/Blossoms Falling in Confusion.brstm
-	Volume: 80
+	Full Steam VENGEANCE!! (Rivals of Aether)
+	Rivals of Aether/Full Steam VENGEANCE!!.brstm
+	Volume: 65
 	Frequency: 40
 
 	A Cargo of Fineries (Shovel Knight)
@@ -814,30 +784,21 @@ Electroplankton.tlst - 1 track
 	Frequency: 40
 
 ################
-Final_Destination.tlst - 7 tracks
+Final_Destination.tlst - 6 tracks
 
 	Zanza the Divine (Xenoblade Chronicles)
 	Xenoblade/Zanza the Divine.brstm
 	Volume: 80
 	Frequency: 40
+	Song delay: -1
 
 	In The Final (Bowser's Inside Story)
 	Mario/In The Final.brstm
 	Volume: 70
 	Frequency: 40
 
-	The Fog (Persona 4)
-	Persona/Mist.brstm
-	Volume: 80
-	Frequency: 40
-
 	The Almighty (Persona 4)
 	Persona/The Almighty.brstm
-	Volume: 80
-	Frequency: 40
-
-	Your Contract Has Expired (A Hat in Time)
-	A Hat in Time/Your Contract Has Expired.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -849,6 +810,11 @@ Final_Destination.tlst - 7 tracks
 	Agni Kai (Avatar The Last Airbender)
 	Misc/Agni Kai (ATLA).brstm
 	Volume: 85
+	Frequency: 40
+
+	Black Knife (DELTARUNE)
+	UTDR/Black Knife.brstm
+	Volume: 80
 	Frequency: 40
 
 ################
@@ -863,7 +829,7 @@ Flat_Zone.tlst - 2 tracks
 	Frequency: 40
 
 ################
-Fountain_of_Dreams.tlst - 10 tracks
+Fountain_of_Dreams.tlst - 9 tracks
 
 	1NF3$+@+!0N (Terraria Calamity)
 	Terraria/1NF3$+@+!0N.brstm
@@ -893,11 +859,6 @@ Fountain_of_Dreams.tlst - 10 tracks
 	Positive Force (VVVVVV)
 	VVVVVV/Positive Force.brstm
 	Volume: 80
-	Frequency: 40
-
-	Full Steam VENGEANCE!! (Rivals of Aether)
-	Rivals of Aether/Full Steam VENGEANCE!!.brstm
-	Volume: 65
 	Frequency: 40
 
 	Neon Universe EX (Rivals of Aether)
@@ -1020,7 +981,7 @@ Green_Greens.tlst - 4 tracks
 	Song delay: -1
 
 ################
-Green_Hill_Zone.tlst - 14 tracks
+Green_Hill_Zone.tlst - 12 tracks
 
 	shwang - are you sweating
 	Colorado/shwang - are you sweating.brstm
@@ -1040,16 +1001,6 @@ Green_Hill_Zone.tlst - 14 tracks
 	shwang - money on the favorite
 	Colorado/shwang - money on the favorite.brstm
 	Volume: 75
-	Frequency: 40
-
-	Tabloid Jargon (Sonic Mania)
-	Sonic/Tabloid Jargon.brstm
-	Volume: 80
-	Frequency: 40
-
-	Stardust Speedway Bad Future (Generations)
-	Sonic/Stardust Speedway Bad Future (Generations).brstm
-	Volume: 90
 	Frequency: 40
 
 	Blue Water, Blue Sky (Guilty Gear X2)
@@ -1072,9 +1023,14 @@ Green_Hill_Zone.tlst - 14 tracks
 	Volume: 75
 	Frequency: 40
 
+	Destructive Goodwill (Guilty Gear Xrd)
+	Guilty Gear/Destructive Goodwill.brstm
+	Volume: 100
+	Frequency: 40
+
 	Perfect Place (Melty Blood: Type Lumina)
 	Melty Blood/Perfect Place (Rainy Moon).brstm
-	Volume: 80
+	Volume: 70
 	Frequency: 40
 
 	Another Winter (Scott Pilgrim)
@@ -1085,11 +1041,6 @@ Green_Hill_Zone.tlst - 14 tracks
 	Slide (SpongeBob Movie Game)
 	SpongeBob/Slide (Movie).brstm
 	Volume: 120
-	Frequency: 40
-
-	Steam Gardens (Super Mario Odyssey)
-	Mario/Steam Gardens.brstm
-	Volume: 85
 	Frequency: 40
 
 ################
@@ -1215,20 +1166,10 @@ Kakariko.tlst - 5 tracks
 	Frequency: 40
 
 ################
-Luigis_Mansion.tlst - 18 tracks
+Luigis_Mansion.tlst - 12 tracks
 
 	Final Antasma Battle (M&L Dream Team)
 	Mario/Final Antasma Battle.brstm
-	Volume: 80
-	Frequency: 40
-
-	Wandering Ghosts (Symphony of the Night)
-	Castlevania/Wandering Ghosts (Symphony of the Night).brstm
-	Volume: 100
-	Frequency: 40
-
-	Ray of Hope (Corpse Party)
-	Corpse Party/Ray of Hope.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -1242,9 +1183,9 @@ Luigis_Mansion.tlst - 18 tracks
 	Volume: 80
 	Frequency: 40
 
-	There's A Bone In My Spaghetti (Pizza Tower)
-	Pizza Tower/There's A Bone In My Spaghetti.brstm
-	Volume: 80
+	An Oasis of Blood (Skullgirls)
+	Skullgirls/An Oasis of Blood (Bath of Sekhmet Stage).brstm
+	Volume: 85
 	Frequency: 40
 
 	Hidden by Night (Shovel Knight)
@@ -1252,9 +1193,9 @@ Luigis_Mansion.tlst - 18 tracks
 	Volume: 70
 	Frequency: 40
 
-	Good for Health, Bad for Education (VA-11 HALL-A)
-	VA-11 HALL-A/Good for Health, Bad for Education.brstm
-	Volume: 110
+	Keep In Gates (Guilty Gear X2)
+	Guilty Gear/Keep In Gates.brstm
+	Volume: 90
 	Frequency: 40
 
 	Endless (Nubby's Number Factory)
@@ -1285,26 +1226,6 @@ Luigis_Mansion.tlst - 18 tracks
 	Antarctic Reinforcement (Terraria Calamity)
 	Terraria/Antarctic Reinforcement.brstm
 	Volume: 80
-	Frequency: 40
-
-	An Oasis of Blood (Skullgirls)
-	Skullgirls/An Oasis of Blood (Bath of Sekhmet Stage).brstm
-	Volume: 85
-	Frequency: 40
-
-	-PSYCH OUT- (3rd Strike)
-	Street Fighter/-PSYCH OUT- (3rd Strike).brstm
-	Volume: 90
-	Frequency: 40
-
-	Keep In Gates (Guilty Gear X2)
-	Guilty Gear/Keep In Gates.brstm
-	Volume: 90
-	Frequency: 40
-
-	Awakening The Chaos (BlazBlue)
-	BlazBlue/Awakening The Chaos.brstm
-	Volume: 65
 	Frequency: 40
 
 ################
@@ -1414,7 +1335,7 @@ Mario_Circuit.tlst - 8 tracks
 	Frequency: 40
 
 ################
-Menu.tlst - 34 tracks
+Menu.tlst - 32 tracks
 
 	3DS Internet Settings
 	Misc/3DS Internet Settings.brstm
@@ -1426,7 +1347,7 @@ Menu.tlst - 34 tracks
 	Volume: 80
 	Frequency: 40
 
-	Actor's Anteroom (Melty Blood)
+	Actor's Anteroom (Melty Blood: Actress Again)
 	Melty Blood/Actor's Anteroom.brstm
 	Volume: 65
 	Frequency: 40
@@ -1439,11 +1360,6 @@ Menu.tlst - 34 tracks
 	Ordinary Days (Lethal League)
 	Lethal League/Ordinary Days.brstm
 	Volume: 85
-	Frequency: 40
-
-	LOVERS Encore (Rivals Of Aether)
-	Rivals of Aether/LOVERS Encore.brstm
-	Volume: 80
 	Frequency: 40
 
 	Tartarus 6th Block (Persona 3 Reload)
@@ -1566,23 +1482,18 @@ Menu.tlst - 34 tracks
 	Volume: 80
 	Frequency: 40
 
-	JEDDI - Legend
-	OC/JEDDI - Legend.brstm
-	Volume: 100
-	Frequency: 40
-
 	Dance Of Swords (Steven Universe)
 	Misc/Dance Of Swords (Steven Universe).brstm
 	Volume: 95
 	Frequency: 40
 
-	Home - We're Finally Landing
-	OC/Home - We're Finally Landing.brstm
-	Volume: 80
+	JEDDI - Legend
+	OC/JEDDI - Legend.brstm
+	Volume: 100
 	Frequency: 40
 
-	Waterflame - Glorious Morning
-	OC/Waterflame - Glorious Morning.brstm
+	Home - We're Finally Landing
+	OC/Home - We're Finally Landing.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -1876,7 +1787,7 @@ Pokemon_Stadium.tlst - 3 tracks
 	Song delay: -1
 
 ################
-Pokemon_Stadium_2.tlst - 15 tracks
+Pokemon_Stadium_2.tlst - 12 tracks
 
 	Neon Colosseum
 	Pokemon/Neon Colosseum.brstm
@@ -1916,21 +1827,6 @@ Pokemon_Stadium_2.tlst - 15 tracks
 	Cipher Peon Battle
 	Pokemon/Cipher Peon Battle (XD Gale of Darkness).brstm
 	Volume: 80
-	Frequency: 40
-
-	Typing Adventure Boss Battle
-	Pokemon/Typing Adventure Boss Battle.brstm
-	Volume: 80
-	Frequency: 40
-
-	Battle! Team Galactic Boss
-	Pokemon/Battle! Team Galactic Boss.brstm
-	Volume: 80
-	Frequency: 40
-
-	Piercing the Sky (VVVVVV)
-	VVVVVV/Piercing the Sky.brstm
-	Volume: 75
 	Frequency: 40
 
 	Fly of Beelzebub (Terraria Calamity)
@@ -2417,9 +2313,9 @@ Sky_Sanctuary.tlst - 1 track
 	Frequency: 40
 
 ################
-Smashville.tlst - 14 tracks
+Smashville.tlst - 11 tracks
 
-	Rhythmical Bustle (Melty Blood)
+	Rhythmical Bustle (Melty Blood: Actress Again)
 	Melty Blood/Rhythmical Bustle.brstm
 	Volume: 95
 	Frequency: 40
@@ -2429,44 +2325,9 @@ Smashville.tlst - 14 tracks
 	Volume: 80
 	Frequency: 40
 
-	TV WORLD (DELTARUNE)
-	UTDR/TV WORLD.brstm
-	Volume: 95
-	Frequency: 40
-
 	Casino (Huniepop 2)
 	Huniepop/Casino (Huniepop 2).brstm
 	Volume: 95
-	Frequency: 40
-
-	Classroom (Mario Strikers Charged)
-	Mario/Classroom.brstm
-	Volume: 90
-	Frequency: 40
-
-	Pressure Cooker (VVVVVV)
-	VVVVVV/Pressure Cooker.brstm
-	Volume: 80
-	Frequency: 40
-
-	Deep Mentality (Persona 3 Reload)
-	Persona/Deep Mentality.brstm
-	Volume: 70
-	Frequency: 40
-
-	Life Goes On (Persona 5)
-	Persona/Life Goes On.brstm
-	Volume: 90
-	Frequency: 40
-
-	Jack-a-Dandy (Guilty Gear Xrd)
-	Guilty Gear/Jack-a-Dandy.brstm
-	Volume: 80
-	Frequency: 40
-
-	Haven't You Got Eyes in Your Head (Guilty Gear X2)
-	Guilty Gear/Haven't You Got Eyes in Your Head.brstm
-	Volume: 50
 	Frequency: 40
 
 	TOO GOOD TOO BAD (Cowboy Bebop)
@@ -2484,17 +2345,56 @@ Smashville.tlst - 14 tracks
 	Volume: 90
 	Frequency: 40
 
-	V-Band Selecta - Royal Flush
-	OC/V-Band Selecta - Royal Flush.brstm
+	Deep Mentality (Persona 3 Reload)
+	Persona/Deep Mentality.brstm
 	Volume: 70
 	Frequency: 40
 
-################
-Smashville_Concert.tlst - 1 track
+	Jack-a-Dandy (Guilty Gear Xrd)
+	Guilty Gear/Jack-a-Dandy.brstm
+	Volume: 80
+	Frequency: 40
 
-	K.K. Slam
-	Space Jam/K.K. Slam.brstm [BRSTM FILE MISSING]
-	Volume: 65
+	Haven't You Got Eyes in Your Head (Guilty Gear X2)
+	Guilty Gear/Haven't You Got Eyes in Your Head.brstm
+	Volume: 50
+	Frequency: 40
+
+	TV WORLD (DELTARUNE)
+	UTDR/TV WORLD.brstm
+	Volume: 95
+	Frequency: 40
+
+	Pressure Cooker (VVVVVV)
+	VVVVVV/Pressure Cooker.brstm
+	Volume: 80
+	Frequency: 40
+
+################
+Smashville_Concert.tlst - 6 tracks
+
+	K.K. Cruisin'
+	N07.brstm (0x27B9)
+	Frequency: 40
+
+	K.K. Western
+	N08.brstm (0x27BA)
+	Frequency: 40
+
+	K.K. Gumbo
+	N09.brstm (0x27BB)
+	Frequency: 40
+
+	Rockin' K.K.
+	N10.brstm (0x27BC)
+	Frequency: 40
+
+	DJ K.K.
+	N11.brstm (0x27BD)
+	Frequency: 40
+
+	K.K. Condor
+	N12.brstm (0x27BE)
 	Frequency: 40
 
 ################
@@ -2599,26 +2499,11 @@ Temple.tlst - 5 tracks
 	Frequency: 40
 
 ################
-Temple_of_Time.tlst - 9 tracks
+Temple_of_Time.tlst - 8 tracks
 
-	Castle Crashers Feint Remix
-	Castle Crashers/Main Theme (Feint Remix).brstm
-	Volume: 65
-	Frequency: 40
-
-	The 13th Reflection (Kingdom Hearts II)
-	Kingdom Hearts/The 13th Reflection.brstm
+	Battling Culex (Mario RPG remake)
+	Mario/Battling Culex.brstm
 	Volume: 90
-	Frequency: 40
-
-	The 13th Struggle (Kingdom Hearts II)
-	Kingdom Hearts/The 13th Struggle.brstm
-	Volume: 70
-	Frequency: 40
-
-	Let the Battles Begin! (FF7 Remake)
-	Final Fantasy/Let the Battles Begin! (remake).brstm
-	Volume: 75
 	Frequency: 40
 
 	Time to Fight! (Xenoblade Chronicles)
@@ -2626,13 +2511,18 @@ Temple_of_Time.tlst - 9 tracks
 	Volume: 90
 	Frequency: 40
 
-	Battling Culex (Mario RPG remake)
-	Mario/Battling Culex.brstm
-	Volume: 90
+	Let the Battles Begin! (FF7 Remake)
+	Final Fantasy/Let the Battles Begin! (remake).brstm
+	Volume: 75
 	Frequency: 40
 
-	Hard Fight (Valkyria Chronicles)
-	Valkyria Chronicles/Hard Fight.brstm
+	The 13th Struggle (Kingdom Hearts II)
+	Kingdom Hearts/The 13th Struggle.brstm
+	Volume: 70
+	Frequency: 40
+
+	Magnificent Palace (Muramasa: The Demon Blade)
+	Muramasa/Magnificent Palace.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -2644,6 +2534,11 @@ Temple_of_Time.tlst - 9 tracks
 	In the Halls of the Usurper (Rivals ver.)
 	Shovel Knight/In the Halls of the Usurper (Rivals ver.).brstm
 	Volume: 80
+	Frequency: 40
+
+	Piercing the Sky (VVVVVV)
+	VVVVVV/Piercing the Sky.brstm
+	Volume: 75
 	Frequency: 40
 
 ################
@@ -2693,7 +2588,7 @@ Venus_Lighthouse.tlst - 2 tracks
 	Song delay: 18
 
 ################
-Warios_Gold_Mine.tlst - 12 tracks
+Warios_Gold_Mine.tlst - 10 tracks
 
 	Wario's Gold Mine
 	Mario Kart/Wario's Gold Mine.brstm
@@ -2710,11 +2605,6 @@ Warios_Gold_Mine.tlst - 12 tracks
 	Volume: 80
 	Frequency: 40
 
-	Moo Moo Meadows
-	Mario Kart/Moo Moo Meadows.brstm
-	Volume: 80
-	Frequency: 40
-
 	Coconut Mall
 	Mario Kart/Coconut Mall.brstm
 	Volume: 70
@@ -2725,19 +2615,9 @@ Warios_Gold_Mine.tlst - 12 tracks
 	Volume: 100
 	Frequency: 40
 
-	Oregano Mirage (Pizza Tower)
-	Pizza Tower/Oregano Mirage.brstm
-	Volume: 90
-	Frequency: 40
-
 	Yeehaw Deliveryboy (Pizza Tower)
 	Pizza Tower/Yeehaw Deliveryboy.brstm
 	Volume: 90
-	Frequency: 40
-
-	Trainwreck Of Electro Swing (A Hat in Time)
-	A Hat in Time/Trainwreck Of Electro Swing.brstm
-	Volume: 60
 	Frequency: 40
 
 	A Slow Waker (Guilty Gear Xrd)
@@ -2753,6 +2633,11 @@ Warios_Gold_Mine.tlst - 12 tracks
 	Give Me a Break (Guilty Gear Xrd)
 	Guilty Gear/Give Me a Break.brstm
 	Volume: 100
+	Frequency: 40
+
+	Positive Force (VVVVVV)
+	VVVVVV/Positive Force.brstm
+	Volume: 90
 	Frequency: 40
 
 ################
