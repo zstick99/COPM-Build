@@ -116,6 +116,8 @@ Base - daytime Battlefield by ilikepizza107
 
 -LUIGI'S MANSION-
 Base - Fox Mansion by ilikepizza107
+R - Delfino Secret LM by Mawwwk
+Z - Distant Planet LM from the 2023 recomended stage list build
 
 -TEMPLE OF TIME-
 Base - Wario Land ToT by Mawwwk, textures by Z-Stick
@@ -126,6 +128,9 @@ L - Onion Ocean by Star (Australia)
 
 -POKEMON STADIUM 2-
 Base - Colorado Stadium by Zee, with credit to Blues
+
+-CERES SPACE COLONY-
+L - Crateria CSC from T+
 
 
 _________________________________________________

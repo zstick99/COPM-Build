@@ -1,5 +1,5 @@
 ################
-Battlefield.tlst - 10 tracks
+Battlefield.tlst - 9 tracks
 
 	Noontide (Guilty Gear X2)
 	Guilty Gear/Noontide.brstm
@@ -8,11 +8,6 @@ Battlefield.tlst - 10 tracks
 
 	Holy Orders (Guilty Gear X2)
 	Guilty Gear/Holy Orders (Be Just or Be Dead).brstm
-	Volume: 80
-	Frequency: 40
-
-	The Midnight Carnival (Guilty Gear X2)
-	Guilty Gear/The Midnight Carnival.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -749,29 +744,6 @@ Dream_Land.tlst - 10 tracks
 	Frequency: 40
 
 ################
-Dr_Mario.tlst - 5 tracks
-
-	Chill
-	Q04.brstm (0x27C6)
-	Frequency: 40
-
-	Fever
-	W20.brstm (0x2812)
-	Frequency: 40
-
-	Type A (Tetris)
-	Q10.brstm (0x27CC)
-	Frequency: 40
-
-	Type B (Tetris)
-	Q11.brstm (0x27CD)
-	Frequency: 40
-
-	Mario Bros.
-	A17.brstm (0x2724)
-	Frequency: 40
-
-################
 Electroplankton.tlst - 1 track
 
 	Electroplankton (Brawl)
@@ -883,34 +855,6 @@ Fourside.tlst - 2 tracks
 	Frequency: 40
 
 ################
-Frigate_Orpheon.tlst - 6 tracks
-
-	Vs. Ridley
-	D04.brstm (0x2749)
-	Frequency: 40
-
-	Vs. Parasite Queen
-	D08.brstm (0x274D)
-	Frequency: 40
-	Song delay: -1
-
-	Data Selection Screen
-	D07.brstm (0x274C)
-	Frequency: 40
-
-	Sector 1
-	D06.brstm (0x274B)
-	Frequency: 40
-
-	Vs. Meta Ridley
-	D09.brstm (0x274E)
-	Frequency: 40
-
-	Hunters
-	D10.brstm (0x274F)
-	Frequency: 40
-
-################
 Ganon_Castle.tlst - 5 tracks
 
 	Title (The Legend of Zelda)
@@ -976,31 +920,26 @@ Green_Greens.tlst - 4 tracks
 	Song delay: -1
 
 ################
-Green_Hill_Zone.tlst - 12 tracks
+Green_Hill_Zone.tlst - 10 tracks
 
 	shwang - are you sweating
-	Colorado/shwang - are you sweating.brstm
+	OC/shwang - are you sweating.brstm
 	Volume: 75
 	Frequency: 40
 
 	shwang - challenger's journey
-	Colorado/shwang - challenger's journey.brstm
+	OC/shwang - challenger's journey.brstm
 	Volume: 75
 	Frequency: 40
 
 	shwang - cosmos
-	Colorado/shwang - cosmos.brstm
+	OC/shwang - cosmos.brstm
 	Volume: 75
 	Frequency: 40
 
 	shwang - money on the favorite
-	Colorado/shwang - money on the favorite.brstm
+	OC/shwang - money on the favorite.brstm
 	Volume: 75
-	Frequency: 40
-
-	Blue Water, Blue Sky (Guilty Gear X2)
-	Guilty Gear/Blue Water, Blue Sky.brstm
-	Volume: 80
 	Frequency: 40
 
 	Simple Life (Guilty Gear X2)
@@ -1018,24 +957,19 @@ Green_Hill_Zone.tlst - 12 tracks
 	Volume: 75
 	Frequency: 40
 
-	Destructive Goodwill (Guilty Gear Xrd)
-	Guilty Gear/Destructive Goodwill.brstm
-	Volume: 100
-	Frequency: 40
-
-	Perfect Place (Melty Blood: Type Lumina)
-	Melty Blood/Perfect Place (Rainy Moon).brstm
-	Volume: 70
-	Frequency: 40
-
-	Another Winter (Scott Pilgrim)
-	Scott Pilgrim/Another Winter.brstm
+	Moving Like a Blossoming Lily (Under Night In-Birth)
+	Under Night In-Birth/Moving Like a Blossoming Lily (Yuzuriha).brstm
 	Volume: 80
 	Frequency: 40
 
 	Slide (SpongeBob Movie Game)
 	SpongeBob/Slide (Movie).brstm
 	Volume: 120
+	Frequency: 40
+
+	Positive Force (VVVVVV)
+	VVVVVV/Positive Force.brstm
+	Volume: 90
 	Frequency: 40
 
 ################
@@ -1178,16 +1112,6 @@ Luigis_Mansion.tlst - 12 tracks
 	Volume: 85
 	Frequency: 40
 
-	Hidden by Night (Shovel Knight)
-	Shovel Knight/Hidden by Night (Lich Yard).brstm
-	Volume: 70
-	Frequency: 40
-
-	Keep In Gates (Guilty Gear X2)
-	Guilty Gear/Keep In Gates.brstm
-	Volume: 90
-	Frequency: 40
-
 	Endless (Nubby's Number Factory)
 	Nubby's Number Factory/Endless.brstm
 	Volume: 200
@@ -1196,6 +1120,21 @@ Luigis_Mansion.tlst - 12 tracks
 	Potential for Anything (VVVVVV)
 	VVVVVV/Potential for Anything.brstm
 	Volume: 75
+	Frequency: 40
+
+	-PSYCH OUT- (SF 3rd Strike)
+	Street Fighter/-PSYCH OUT- (3rd Strike).brstm
+	Volume: 90
+	Frequency: 40
+
+	Keep In Gates (Guilty Gear X2)
+	Guilty Gear/Keep In Gates.brstm
+	Volume: 90
+	Frequency: 40
+
+	The Midnight Carnival (Guilty Gear X2)
+	Guilty Gear/The Midnight Carnival.brstm
+	Volume: 80
 	Frequency: 40
 
 	Rigged Game (Neon White)
@@ -1216,11 +1155,6 @@ Luigis_Mansion.tlst - 12 tracks
 	Antarctic Reinforcement (Terraria Calamity)
 	Terraria/Antarctic Reinforcement.brstm
 	Volume: 80
-	Frequency: 40
-
-	-PSYCH OUT- (SF 3rd Strike)
-	Street Fighter/-PSYCH OUT- (3rd Strike).brstm
-	Volume: 90
 	Frequency: 40
 
 ################
@@ -2346,33 +2280,6 @@ Smashville.tlst - 11 tracks
 	Frequency: 40
 
 ################
-Smashville_Concert.tlst - 6 tracks
-
-	K.K. Cruisin'
-	N07.brstm (0x27B9)
-	Frequency: 40
-
-	K.K. Western
-	N08.brstm (0x27BA)
-	Frequency: 40
-
-	K.K. Gumbo
-	N09.brstm (0x27BB)
-	Frequency: 40
-
-	Rockin' K.K.
-	N10.brstm (0x27BC)
-	Frequency: 40
-
-	DJ K.K.
-	N11.brstm (0x27BD)
-	Frequency: 40
-
-	K.K. Condor
-	N12.brstm (0x27BE)
-	Frequency: 40
-
-################
 Space_Colony_Ark.tlst - 3 tracks
 
 	Live and Learn
@@ -2563,25 +2470,25 @@ Venus_Lighthouse.tlst - 2 tracks
 	Song delay: 18
 
 ################
-Warios_Gold_Mine.tlst - 10 tracks
+Warios_Gold_Mine.tlst - 9 tracks
 
 	Wario's Gold Mine
-	Mario Kart/Wario's Gold Mine.brstm
+	Mario/Wario's Gold Mine.brstm
 	Volume: 85
 	Frequency: 40
 
 	Toad's Factory
-	Mario Kart/Toad's Factory.brstm
+	Mario/Toad's Factory.brstm
 	Volume: 65
 	Frequency: 40
 
 	Mushroom Gorge
-	Mario Kart/Mushroom Gorge.brstm
+	Mario/Mushroom Gorge.brstm
 	Volume: 80
 	Frequency: 40
 
 	Coconut Mall
-	Mario Kart/Coconut Mall.brstm
+	Mario/Coconut Mall.brstm
 	Volume: 70
 	Frequency: 40
 
@@ -2608,11 +2515,6 @@ Warios_Gold_Mine.tlst - 10 tracks
 	Give Me a Break (Guilty Gear Xrd)
 	Guilty Gear/Give Me a Break.brstm
 	Volume: 100
-	Frequency: 40
-
-	Positive Force (VVVVVV)
-	VVVVVV/Positive Force.brstm
-	Volume: 90
 	Frequency: 40
 
 ################
@@ -2662,17 +2564,6 @@ WarioWare_Disco.tlst - 1 track
 	A22.brstm (0x2727)
 	Frequency: 40
 	Song delay: 72
-
-################
-World_2-3.tlst - 2 tracks
-
-	Overworld (Super Mario Bros. 3)
-	W15.brstm (0x280D)
-	Frequency: 40
-
-	Gritzy Desert
-	A10.brstm (0x271D)
-	Frequency: 40
 
 ################
 Yoshis_Cookie.tlst - 1 track

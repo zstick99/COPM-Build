@@ -10,25 +10,21 @@ Z: Battlefield_Z.param
 
 
 ################
-02.asl - 7 entries
+02.asl - 4 entries
 
 Base: Final_Destination.param
 R: Final_Destination_R.param
 L: Final_Destination_L.param
 Z: Final_Destination_Z.param
-0x8000: Final_Destination_ML_00.param
-0x8001: Final_Destination_ML_01.param
-0x4000: Final_Destination_MR_00.param
 
 
 ################
-03.asl - 5 entries
+03.asl - 4 entries
 
 Base: Delfino_Secret.param
 R: Delfino_Secret_R.param
 L: Delfino_Secret_L.param
 Z: Delfino_Secret_Z.param
-0x4000: Delfino_Secret_MR_00.param
 
 
 ################
@@ -41,14 +37,12 @@ Z: Luigis_Mansion_Z.param
 
 
 ################
-05.asl - 6 entries
+05.asl - 4 entries
 
 Base: Metal_Cavern.param
 R: Metal_Cavern_R.param
 L: Metal_Cavern_L.param
 Z: Metal_Cavern_Z.param
-0x4000: Metal_Cavern_MR_00.param
-0x8000: Metal_Cavern_ML_00.param
 
 
 ################
@@ -62,13 +56,12 @@ Z: Bowser_Castle_Z.param
 
 
 ################
-07.asl - 5 entries
+07.asl - 4 entries
 
 Base: Kongo_Jungle.param
 R: Kongo_Jungle_R.param
 L: Kongo_Jungle_L.param
 Z: Kongo_Jungle_Z.param
-0x4000: Kongo_Jungle_MR_00.param
 
 
 ################
@@ -83,13 +76,12 @@ Z: Rumble_Falls_Z.param
 
 
 ################
-09.asl - 6 entries
+09.asl - 5 entries
 
 Base: Temple_of_Time.param
 R: Temple_of_Time_R.param
 L: Temple_of_Time_L.param
 Z: Temple_of_Time_Z.param
-0x8000: Temple_of_Time_ML_00.param
 0xC000: Event_31.param
 
 
@@ -103,13 +95,12 @@ Z: Norfair_Z.param
 
 
 ################
-0C.asl - 5 entries
+0C.asl - 4 entries
 
 Base: Frigate_Husk.param
 R: Frigate_Husk_R.param
 L: Frigate_Husk_L.param
 Z: Frigate_Husk_Z.param
-0x8000: Frigate_Husk_ML_00.param
 
 
 ################
@@ -143,13 +134,12 @@ Z: Lylat_Cruise_Z.param
 
 
 ################
-14.asl - 5 entries
+14.asl - 4 entries
 
 Base: Saffron_City.param
 R: Saffron_City_R.param
 L: Saffron_City_L.param
 Z: Saffron_City_Z.param
-0x4000: Saffron_City_MR_00.param
 
 
 ################
@@ -248,18 +238,12 @@ Z: Fourside_Z.param
 
 
 ################
-21.asl - 10 entries
+21.asl - 4 entries
 
 Base: Smashville.param
 R: Smashville_R.param
 L: Smashville_L.param
 Z: Smashville_Z.param
-0x4000: Smashville_MR_00.param
-0x4001: Smashville_MR_01.param
-0x4002: Smashville_MR_02.param
-0x4003: Smashville_MR_03.param
-0x4004: Smashville_MR_04.param
-0x4005: Smashville_MR_05.param
 
 
 ################
@@ -272,14 +256,12 @@ Z: Shadow_Moses_Z.param
 
 
 ################
-23.asl - 6 entries
+23.asl - 4 entries
 
 Base: Green_Hill_Zone.param
 R: Green_Hill_Zone_R.param
 L: Green_Hill_Zone_L.param
 Z: Green_Hill_Zone_Z.param
-0x4000: Green_Hill_Zone_MR_00.param
-0x8000: Green_Hill_Zone_ML_00.param
 
 
 ################
@@ -361,33 +343,30 @@ Z: Dream_Land_Z.param
 
 
 ################
-2E.asl - 5 entries
+2E.asl - 4 entries
 
 Base: Pokemon_Stadium_2.param
 R: Pokemon_Stadium_2_R.param
 L: Pokemon_Stadium_2_L.param
 Z: Pokemon_Stadium_2_Z.param
-0x8000: Pokemon_Stadium_2_ML_00.param
 
 
 ################
-2F.asl - 5 entries
+2F.asl - 4 entries
 
 Base: Peach_Castle.param
 R: Peach_Castle_R.param
 L: Peach_Castle_L.param
 Z: Peach_Castle_Z.param
-0x8000: Peach_Castle_ML_00.param
 
 
 ################
-30.asl - 5 entries
+30.asl - 4 entries
 
 Base: Corneria.param
 R: Corneria_R.param
 L: Corneria_L.param
 Z: Corneria_Z.param
-0x8000: Corneria_ML_00.param
 
 
 ################
@@ -400,25 +379,23 @@ Z: Big_Blue_Z.param
 
 
 ################
-32.asl - 7 entries
+32.asl - 6 entries
 
 Base: Planet_Zebes.param
 R: Planet_Zebes_R.param
 L: Planet_Zebes_L.param
 Z: Planet_Zebes_Z.param
-0x8000: Planet_Zebes_ML_00.param
-0x8001: Planet_Zebes_ML_01.param
+0x8000: Planet_Zebes_ML_01.param
 0xC000: Planet_Zebes_ML_01.param
 
 
 ################
-33.asl - 5 entries
+33.asl - 4 entries
 
 Base: Hyrule_Castle.param
 R: Hyrule_Castle_R.param
 L: Hyrule_Castle_L.param
 Z: Hyrule_Castle_Z.param
-0x8000: Hyrule_Castle_ML_00.param
 
 
 ################
@@ -440,16 +417,13 @@ Base: Rest_Area.param
 
 
 ################
-37.asl - 8 entries
+37.asl - 5 entries
 
 Base: Training.param
 R: Training_R.param
 L: Training_L.param
 Z: Training_Z.param
-0x4000: Training_MR_00.param
-0x4001: Training_MR_01.param
 0x8000: Training_ML_00.param
-0x8001: Training_ML_01.param
 
 
 ################
@@ -483,23 +457,21 @@ Z: Mario_Circuit_Z.param
 
 
 ################
-42.asl - 5 entries
+42.asl - 4 entries
 
 Base: Clock_Town.param
 R: Clock_Town_R.param
 L: Clock_Town_L.param
 Z: Clock_Town_Z.param
-0x8000: Clock_Town_ML_00.param
 
 
 ################
-43.asl - 5 entries
+43.asl - 4 entries
 
 Base: Sky_Sanctuary.param
 R: Sky_Sanctuary_R.param
 L: Sky_Sanctuary_L.param
 Z: Sky_Sanctuary_Z.param
-0x4000: Sky_Sanctuary_MR_00.param
 
 
 ################
@@ -575,14 +547,12 @@ Z: Venus_Lighthouse_Z.param
 
 
 ################
-4C.asl - 6 entries
+4C.asl - 4 entries
 
 Base: Mushroom_Kingdom.param
 R: Mushroom_Kingdom_R.param
 L: Mushroom_Kingdom_L.param
 Z: Mushroom_Kingdom_Z.param
-0x8000: Mushroom_Kingdom_ML_00.param
-0x8001: Mushroom_Kingdom_ML_01.param
 
 
 ################
@@ -608,23 +578,21 @@ Z: Subspace_Z.param
 
 
 ################
-4F.asl - 5 entries
+4F.asl - 4 entries
 
 Base: Rainbow_Cruise.param
 R: Rainbow_Cruise_R.param
 L: Rainbow_Cruise_L.param
 Z: Rainbow_Cruise_Z.param
-0x8000: Rainbow_Cruise_ML_00.param
 
 
 ################
-50.asl - 5 entries
+50.asl - 4 entries
 
 Base: Poke_Floats.param
 R: Poke_Floats_R.param
 L: Poke_Floats_L.param
 Z: Poke_Floats_Z.param
-0x8000: Poke_Floats_ML_00.param
 
 
 ################
