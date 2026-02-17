@@ -9,6 +9,9 @@ edited fitfighter.pacs: Marth, Fox
 -DONKEY KONG-
 06 - CoJoe DK by Z-Stick
 
+-SAMUS-
+06 - Liz's Trans Samus by Zee
+
 -YOSHI-
 40 - Madonna Yoshi by Z-Stick and ilikepizza107
 
@@ -59,7 +62,7 @@ edited fitfighter.pacs: Marth, Fox
 25 - Kulprit Meta Knight by ilikepizza107, with credit to VirtualBeef for renders
 
 -PIT-
-Meecrobs Pit by ilikepizza107
+50 - Meecrobs Pit by ilikepizza107
 40 - Star Pit red by SJS, Star, ilikepizza107
 41 - Star Pit blue by SJS, Star, ilikepizza107
 42 - Star Pit green by SJS, Star, ilikepizza107
