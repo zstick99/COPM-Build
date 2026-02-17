@@ -1924,7 +1924,7 @@
       "FileType": 1,
       "AlwaysInheritStyle": false,
       "Required": false,
-      "Enabled": false,
+      "Enabled": true,
       "Selectable": false,
       "AlwaysCreateArchive": true,
       "PaletteCount": 256,
@@ -2370,10 +2370,6 @@
       {
         "FileType": 24,
         "Path": "pf\\stage\\switch\\Switch06.rss"
-      },
-      {
-        "FileType": 24,
-        "Path": "pf\\stage\\switch\\SwitchFF.rss"
       }
     ],
     "RandomStageNamesLocations": [
