@@ -74,9 +74,6 @@ edited fitfighter.pacs: Marth, Fox
 41 - Star Lucas blue by SJS, Star, ilikepizza107
 42 - Star Lucas green by SJS, Star, ilikepizza107
 
--DIDDY KONG-
-25 - Broncos Diddy Kong by Zee
-
 -SQUIRTLE-
 10 - Madonna Squirtle by Z-Stick
 
@@ -137,8 +134,6 @@ Stage Stats by Motobug
 Stage specific results screens by ilikepizza107, QuickLava, and Mawwwk
 
 Code Menu edits from the Deep Space Tussle Build
-
-Female Annoincer by Rina-Chan and Diddy Kong (BrawlVault)
 
 Snake renders by SJS
 
