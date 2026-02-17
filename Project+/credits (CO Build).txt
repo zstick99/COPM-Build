@@ -4,16 +4,16 @@ _________________________________________________
 edited fitfighter.pacs: Marth, Fox
 
 -MARIO-
-07 - Doop Mario by Z-Stick
+07 - Doop Mario by Zee
 
 -DONKEY KONG-
-06 - CoJoe DK by Z-Stick
+06 - CoJoe DK by Zee
 
 -SAMUS-
 06 - Liz's Trans Samus by Zee
 
 -YOSHI-
-40 - Madonna Yoshi by Z-Stick and ilikepizza107
+40 - Madonna Yoshi by Zee and ilikepizza107
 
 -KIRBY-
 40 - Star Kirby red by influenza and ilikepizza107
@@ -37,26 +37,26 @@ edited fitfighter.pacs: Marth, Fox
 25 - maka ICs by influenza
 
 -MARTH-
-34 - Jenny Marth by Z-Stick
+34 - Jenny Marth by Zee
 35 - Broncos Marth by Soully, with credit to ilikepizza107
-36 - Polear Marth by Z-Stick
+36 - Polear Marth by Zee
 40 - Artemis Marth by ilikepizza107
 
 -MR. GAME & WATCH-
-17 - Meecrobs G&W by Z-Stick
+17 - Meecrobs G&W by Zee
 
 -FALCO-
-09 - Alex Falco by Z-Stick
+09 - Alex Falco by Zee
 
 -GANONDORF-
-36 - yvonne Ganon by Z-Stick, Hyrule Warriors Ganon from T+
-37 - Jenny Ganon by Z-Stick, Hyrule Warriors Ganon from T+
+36 - yvonne Ganon by Zee, Hyrule Warriors Ganon from T+
+37 - Jenny Ganon by Zee, Hyrule Warriors Ganon from T+
 40 - Joey Coors Ganon by ???
 29 - Akuma Ganon by ilikepizza107
 
 -WARIO-
-12 - Z-Stick Wario by Z-Stick
-14 - Jr. Chaffles Wario by Z-Stick
+12 - Zee Wario by Zee
+14 - Jr. Chaffles Wario by Zee
 
 -META KNIGHT-
 25 - Kulprit Meta Knight by ilikepizza107, with credit to VirtualBeef for renders
@@ -72,31 +72,34 @@ edited fitfighter.pacs: Marth, Fox
 41 - Joey Olimar by ilikepizza107
 
 -LUCAS-
-26 - indisposed Lucas by Z-Stick
+26 - indisposed Lucas by Zee
 40 - Star Lucas red by SJS, Star, ilikepizza107
 41 - Star Lucas blue by SJS, Star, ilikepizza107
 42 - Star Lucas green by SJS, Star, ilikepizza107
 
+-DIDDY KONG-
+25 - Broncos Diddy by Zee
+
 -SQUIRTLE-
-10 - Madonna Squirtle by Z-Stick
+10 - Madonna Squirtle by Zee
 
 -LUCARIO-
-11 - rose cat Lucario by Z-Stick
+11 - rose cat Lucario by Zee
 12 - maka Lucario by maka
-30 - Valnoir Lucario by Z-Stick
+30 - Valnoir Lucario by Zee
 
 -R.O.B.-
-24 - Shwang ROB by Z-Stick
+24 - Shwang ROB by Zee
 
 -SNAKE-
-06 - Z-Stick Snake by Z-Stick
+06 - Zee Snake by Zee
 
 -ROY-
 09 - Atari Roy by ilikepizza107
 
 -MEWTWO-
 25 - aura palmer Mewtwo by marcelbruer
-26 - Peng1n Mewtwo by Z-Stick
+26 - Peng1n Mewtwo by Zee
 
 -KNUCKLES-
 04 - Hamyojo Knux by Autumn
@@ -113,23 +116,19 @@ Base - daytime Battlefield by ilikepizza107
 -LUIGI'S MANSION-
 Base - Fox Mansion by ilikepizza107
 
--TEMPLE OF TIME-
-Base - Wario Land ToT by Mawwwk, textures by Z-Stick
-
 -FRIGATE HUSK-
-Base - Wario's Gold Mine WL skin by Electropolitan, Hyrule Meadows by Mawwwk, combination by Z-Stick
+Base - Wario's Gold Mine WL skin by Electropolitan, Hyrule Meadows by Mawwwk, combination by Zee
 L - Onion Ocean by Star (Australia)
 
 -POKEMON STADIUM 2-
-Base - Gold Rush Stadium by Z-Stick
-L - Colorado Stadium by Z-Stick, with credit to Blues
+Base - Colorado Stadium by Zee, with credit to Blues
 
 
 _________________________________________________
 MENUS
 _________________________________________________
 
-Menus by Z-Stick, with credit to ilikepizza107 for some model edits
+Menus by Zee, with credit to ilikepizza107 for some model edits
 
 Stocks on the Stage Select screen by ilikepizza107 and QuickLava
 
@@ -144,4 +143,4 @@ _________________________________________________
 MUSIC
 _________________________________________________
 
-BRSTMs by Z-Stick and SmashCustomMusic.net
+BRSTMs by Zee and SmashCustomMusic.net
