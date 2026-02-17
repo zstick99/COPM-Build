@@ -696,7 +696,7 @@ Draculas_Castle.tlst - 2 tracks
 	Frequency: 40
 
 ################
-Dream_Land.tlst - 10 tracks
+Dream_Land.tlst - 11 tracks
 
 	Ripple Star Map
 	Kirby/Ripple Star Map.brstm
@@ -711,6 +711,11 @@ Dream_Land.tlst - 10 tracks
 	Lovely Mountains (Lovely Planet)
 	Lovely Planet/Lovely Mountains.brstm
 	Volume: 80
+	Frequency: 40
+
+	Garbage Day (Donut County)
+	Donut County/Garbage Day.brstm
+	Volume: 100
 	Frequency: 40
 
 	Steam Gardens (Super Mario Odyssey)
@@ -738,13 +743,13 @@ Dream_Land.tlst - 10 tracks
 	Volume: 110
 	Frequency: 40
 
-	A Cargo of Fineries (Shovel Knight)
-	Shovel Knight/A Cargo of Fineries.brstm
+	Full Steam VENGEANCE!! (Rivals of Aether)
+	Rivals of Aether/Full Steam VENGEANCE!!.brstm
 	Volume: 65
 	Frequency: 40
 
-	Full Steam VENGEANCE!! (Rivals of Aether)
-	Rivals of Aether/Full Steam VENGEANCE!!.brstm
+	A Cargo of Fineries (Shovel Knight)
+	Shovel Knight/A Cargo of Fineries.brstm
 	Volume: 65
 	Frequency: 40
 
@@ -783,13 +788,13 @@ Final_Destination.tlst - 6 tracks
 
 	Zanza the Divine (Xenoblade Chronicles)
 	Xenoblade/Zanza the Divine.brstm
-	Volume: 75
+	Volume: 80
 	Frequency: 40
 	Song delay: -1
 
 	In The Final (Bowser's Inside Story)
 	Mario/In The Final.brstm
-	Volume: 80
+	Volume: 70
 	Frequency: 40
 
 	The Almighty (Persona 4)
@@ -799,17 +804,17 @@ Final_Destination.tlst - 6 tracks
 
 	The Death That I Deservioli (Pizza Tower)
 	Pizza Tower/The Death That I Deservioli.brstm
-	Volume: 65
-	Frequency: 40
-
-	Black Knife (DELTARUNE)
-	UTDR/Black Knife.brstm
-	Volume: 70
+	Volume: 75
 	Frequency: 40
 
 	Agni Kai (Avatar The Last Airbender)
 	Misc/Agni Kai (ATLA).brstm
 	Volume: 85
+	Frequency: 40
+
+	Black Knife (DELTARUNE)
+	UTDR/Black Knife.brstm
+	Volume: 80
 	Frequency: 40
 
 ################
@@ -1168,6 +1173,11 @@ Luigis_Mansion.tlst - 12 tracks
 	Volume: 80
 	Frequency: 40
 
+	Rhythmortis (Crypt of the NecroDancer)
+	Crypt of the NecroDancer/Rhythmortis.brstm
+	Volume: 75
+	Frequency: 40
+
 	Tombstone Arizona (Pizza Tower)
 	Pizza Tower/Tombstone Arizona.brstm
 	Volume: 80
@@ -1216,11 +1226,6 @@ Luigis_Mansion.tlst - 12 tracks
 	Antarctic Reinforcement (Terraria Calamity)
 	Terraria/Antarctic Reinforcement.brstm
 	Volume: 80
-	Frequency: 40
-
-	-PSYCH OUT- (SF 3rd Strike)
-	Street Fighter/-PSYCH OUT- (3rd Strike).brstm
-	Volume: 90
 	Frequency: 40
 
 ################
@@ -1330,7 +1335,7 @@ Mario_Circuit.tlst - 8 tracks
 	Frequency: 40
 
 ################
-Menu.tlst - 28 tracks
+Menu.tlst - 32 tracks
 
 	3DS Internet Settings
 	Misc/3DS Internet Settings.brstm
@@ -1347,6 +1352,11 @@ Menu.tlst - 28 tracks
 	Volume: 65
 	Frequency: 40
 
+	Training Mode (Marvel vs. Capcom 2)
+	vs Capcom/Training Mode (Marvel vs. Capcom 2).brstm
+	Volume: 85
+	Frequency: 40
+
 	Ordinary Days (Lethal League)
 	Lethal League/Ordinary Days.brstm
 	Volume: 85
@@ -1354,6 +1364,11 @@ Menu.tlst - 28 tracks
 
 	Tartarus 6th Block (Persona 3 Reload)
 	Persona/Tartarus - 6th Block (Adamah).brstm
+	Volume: 80
+	Frequency: 40
+
+	Beneath the Mask (Persona 5)
+	Persona/Beneath the Mask.brstm
 	Volume: 80
 	Frequency: 40
 
@@ -1382,6 +1397,11 @@ Menu.tlst - 28 tracks
 	Volume: 80
 	Frequency: 40
 
+	Another Medium (UNDERTALE)
+	UTDR/Another Medium.brstm
+	Volume: 120
+	Frequency: 40
+
 	Hip Shop (DELTARUNE)
 	UTDR/Hip Shop.brstm
 	Volume: 80
@@ -1389,6 +1409,11 @@ Menu.tlst - 28 tracks
 
 	Driving Force - Neon Fog (Katana ZERO)
 	Katana ZERO/Driving Force - Neon Fog.brstm
+	Volume: 80
+	Frequency: 40
+
+	Neon Bar (Neon White)
+	Neon White/Neon Bar.brstm
 	Volume: 80
 	Frequency: 40
 
