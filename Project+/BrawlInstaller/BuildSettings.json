@@ -2141,8 +2141,7 @@
     "GctDebugMode": false,
     "GctTimeoutSeconds": 5,
     "ColorSmashDebugMode": false,
-    "ColorSmashTimeoutSeconds": 60,
-    "TrophyCategoryOffset": 23
+    "ColorSmashTimeoutSeconds": 60
   },
   "FilePathSettings": {
     "FilePaths": [
@@ -2152,10 +2151,6 @@
       },
       {
         "FileType": 1,
-        "Path": ""
-      },
-      {
-        "FileType": 44,
         "Path": ""
       },
       {
@@ -2259,10 +2254,6 @@
         "Path": "pf\\toy\\fig\\ty_fig_ext_list.msbin"
       },
       {
-        "FileType": 45,
-        "Path": "pf\\toy\\fig\\ty_fig_category.msbin"
-      },
-      {
         "FileType": 34,
         "Path": "pf\\toy\\fig\\"
       },
@@ -2323,11 +2314,6 @@
         "Label": "ExtraFighterData:",
         "FileType": 43,
         "Path": ""
-      },
-      {
-        "Label": "PHYSICS_DATA:",
-        "FileType": 46,
-        "Path": "Source\\ProjectM\\Modifier\\Physics.asm"
       }
     ],
     "FileNodePaths": [
@@ -2350,22 +2336,6 @@
       {
         "FileType": 24,
         "Path": "pf\\stage\\switch\\Switch01.rss"
-      },
-      {
-        "FileType": 24,
-        "Path": "pf\\stage\\switch\\Switch02.rss"
-      },
-      {
-        "FileType": 24,
-        "Path": "pf\\stage\\switch\\Switch04.rss"
-      },
-      {
-        "FileType": 24,
-        "Path": "pf\\stage\\switch\\Switch05.rss"
-      },
-      {
-        "FileType": 24,
-        "Path": "pf\\stage\\switch\\Switch06.rss"
       }
     ],
     "RandomStageNamesLocations": [
