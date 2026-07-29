@@ -127,7 +127,7 @@ Big Metal Cavern by Mawwwk
 
 
 _________________________________________________
-MENUS
+MENUS & CODES
 _________________________________________________
 
 Menus by Z-Stick, with credit to ilikepizza107 for some model edits
@@ -139,6 +139,10 @@ Stage Stats by Motobug
 Stage specific results screens by ilikepizza107, QuickLava, and Mawwwk
 
 Code Menu edits from the Deep Space Tussle Build
+
+Persistent Menu Music by QuickLava
+
+Per-Port Random Subset by 2gifts
 
 
 _________________________________________________
