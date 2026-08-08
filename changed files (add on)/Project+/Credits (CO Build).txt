@@ -4,6 +4,11 @@ Dolfin fork by Iris Flower
 ########################################
 Stages
 ########################################
+BATTLEFIELD
+Base - always daytime Battlefield by ilikepizza107
+
+METAL CAVERN
+L+Start - Big Metal Cavern by Mawwwk
 
 FRIGATE HUSK
 Base - Wario's Gold Mine by Zee, original WL skin by Electropolitan, Hyrule Meadows by Mawwwk and Motobug
