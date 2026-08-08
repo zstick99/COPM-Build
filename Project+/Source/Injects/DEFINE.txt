@@ -1,8 +1,0 @@
-##################################
-# DEFINE.GCT
-##################################
-# Use this for values that are not
-# considered PSA commands!
-##################################
-
-.include Fighter/Constants.asm
