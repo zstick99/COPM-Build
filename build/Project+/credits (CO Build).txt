@@ -9,6 +9,9 @@ edited fitfighter.pacs: Marth, Fox
 -DONKEY KONG-
 06 - CoJoe DK by Z-Stick
 
+-SAMUS-
+06 - Liz Trans Samus by Zee
+
 -YOSHI-
 40 - Madonna Yoshi by Z-Stick and ilikepizza107
 
@@ -23,7 +26,11 @@ edited fitfighter.pacs: Marth, Fox
 11 - Star's Fox green by ilikepizza107
 45 - Artemis Fox by ilikepizza107
 
+-LUIGI-
+40 - E-Gadd Luigi by Sylv, RapM
+
 -BOWSER-
+11 - Bitterbub Bowser by Zee
 25 - Scion Bowser by FingerStripes
 
 -ZELDA & SHEIK-
@@ -31,6 +38,7 @@ edited fitfighter.pacs: Marth, Fox
 30 - Meecrobs Shelda by ilikepizza107, with credit to HulkAlex for the Zelda model
 
 -ICE CLIMBERS-
+06 - Dank? ICs by Zee
 25 - maka ICs by influenza
 
 -MARTH-
@@ -110,31 +118,36 @@ Base - daytime Battlefield by ilikepizza107
 -LUIGI'S MANSION-
 Base - Fox Mansion by ilikepizza107
 
--TEMPLE OF TIME-
-Base - Wario Land ToT by Mawwwk, textures by Z-Stick
-
 -FRIGATE HUSK-
 Base - Wario's Gold Mine WL skin by Electropolitan, Hyrule Meadows by Mawwwk, combination by Z-Stick
 L - Onion Ocean by Star (Australia)
 
 -POKEMON STADIUM 2-
-Base - Gold Rush Stadium by Z-Stick
+Base - Cabin Fever PS2 by Z-Stick
 L - Colorado Stadium by Z-Stick, with credit to Blues
 
+-SMASHVILLE-
+Base - Gardenville by Red98, with updates by ilikepizza107, CO Balloon by Zee
+
+-METAL CAVERN-
+L+START - Big Metal Cavern by Mawwwk
+
 
 _________________________________________________
-MENUS
+MENUS & CODES
 _________________________________________________
 
-Menus by Z-Stick, with credit to ilikepizza107 for some model edits
+Menus by Z-Stick, with credit to ilikepizza107 for some model edits, BG model import by Motobug
 
 Stocks on the Stage Select screen by ilikepizza107 and QuickLava
 
-Stage Stats by Motobug
+Stage Stats by Iris Flower
 
 Stage specific results screens by ilikepizza107, QuickLava, and Mawwwk
 
 Code Menu edits from the Deep Space Tussle Build
+
+Per-port random characters code by 2gifts
 
 
 _________________________________________________
