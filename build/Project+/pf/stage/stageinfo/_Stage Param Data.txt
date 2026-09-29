@@ -22,16 +22,16 @@ Battlefield_MR_00.param
 ################
 Battlefield_R.param
 
-	STGBATTLEFIELD_R_BF_LUNAR.pac
-	st_battle_NoShadowRotate.rel
-	Battlefield.tlst
+	STGPEACHCASTLE_R_BF_PEACH.pac
+	st_battle_noshadowrotate.rel
+	Peachs_Castle.tlst
 
 ################
 Battlefield_Z.param
 
 	STGBATTLEFIELD_Z_BF_TORNSKY.pac
 	st_battle_NoShadowRotate.rel
-	Battlefield_SSE.tlst
+	Battlefield.tlst
 
 ################
 Bell_Tower.param
@@ -407,7 +407,7 @@ Dead_Line_Z.param
 
 	STGDEADLINE_Z_SSZ_SPACECOLONY.pac
 	st_greenhill_act2.rel
-	Space_Colony_ARK.tlst
+	Space_Colony_Ark.tlst
 
 ################
 Delfino_Secret.param
@@ -547,7 +547,7 @@ Dream_Land_L.param
 
 	STGDREAMLAND_L_DL_WINTER.pac
 	st_dreamland64_ht.rel
-	Dream_Land_Winter.tlst
+	Dream_Land.tlst
 	SFX / GFX: 0x006C / 0x005E
 
 ################
@@ -764,17 +764,17 @@ Fourside_Z.param
 ################
 Frigate_Husk.param
 
-	STGFRIGATEHUSK.pac
+	STGFRIGATEHUSK_FH_GOLDMINE.pac
 	st_final.rel
-	Frigate_Orpheon.tlst
+	Wario_Castle.tlst
 	SFX / GFX: 0x0056 / 0x0032
 
 ################
 Frigate_Husk_L.param
 
-	STGFRIGATEHUSK_L_ORPHEON.pac
-	st_orpheon.rel
-	Frigate_Orpheon.tlst
+	STGFRIGATEHUSK_L_FH_ONIONOCEAN.pac
+	st_final.rel
+	Candy_Constellation.tlst
 	SFX / GFX: 0x0056 / 0x0032
 
 ################
@@ -788,18 +788,18 @@ Frigate_Husk_ML_00.param
 ################
 Frigate_Husk_R.param
 
-	STGFRIGATEHUSK_R_FH_PHENDRANA.pac
-	st_phendrana.rel
-	Phendrana.tlst
-	SFX / GFX: 0x0053 / 0x0032
+	STGFRIGATEHUSK_R_FH_DEFAULT.pac
+	st_final.rel
+	Frigate_Orpheon.tlst
+	SFX / GFX: 0x0056 / 0x0032
 
 ################
 Frigate_Husk_Z.param
 
-	STGFRIGATEHUSK_Z_FH_DROWNED.pac
-	st_final.rel
-	Frigate_Orpheon.tlst
-	SFX / GFX: 0x013D / 0x005E
+	STGFRIGATEHUSK_Z_FH_PHENDRANA.pac
+	st_phendrana.rel
+	Phendrana.tlst
+	SFX / GFX: 0x0053 / 0x0032
 
 ################
 Golden_Temple.param
@@ -1238,6 +1238,16 @@ Metal_Cavern_ML_00.param
 	Metal_Cavern_64.tlst
 
 ################
+Metal_Cavern_ML_01.param
+
+	[Substages / RandomVariance]
+	- STGMETALCAVERN_ML_BIG_00.pac
+	- STGMETALCAVERN_ML_BIG_00.pac
+
+	st_final_substage.rel
+	Metal_Cavern_Big.tlst
+
+################
 Metal_Cavern_MR_00.param
 
 	STGMETALCAVERN_MR_MC_N64.pac
@@ -1557,7 +1567,7 @@ Planet_Zebes_Z.param
 ################
 Pokemon_Stadium_2.param
 
-	STGPOKEMONSTADIUM.pac
+	STGPOKEMONSTADIUM_PS2_CABINFEVER.pac
 	st_stadium_static.rel
 	Pokemon_Stadium_2.tlst
 	SFX / GFX: 0x0059 / 0x0045
@@ -1566,10 +1576,11 @@ Pokemon_Stadium_2.param
 ################
 Pokemon_Stadium_2_L.param
 
-	STGPOKEMONSTADIUM_L_PS2_ULTRA.pac
+	STGPOKEMONSTADIUM_L_PS2_COLORADO.pac
 	st_stadium_static.rel
 	Pokemon_Stadium_2.tlst
 	SFX / GFX: 0x0059 / 0x0045
+	MemoryAllocation: 0x209767 (2135911 bytes)
 
 ################
 Pokemon_Stadium_2_ML_00.param
@@ -1582,17 +1593,18 @@ Pokemon_Stadium_2_ML_00.param
 ################
 Pokemon_Stadium_2_R.param
 
-	STGPOKEMONSTADIUM_R_PS2_RADIANT.pac
-	st_final.rel
+	STGPOKEMONSTADIUM_R_PS2_DEFAULT.pac
+	st_stadium_static.rel
 	Pokemon_Stadium_2.tlst
 	SFX / GFX: 0x0059 / 0x0045
+	MemoryAllocation: 0x209767 (2135911 bytes)
 
 ################
 Pokemon_Stadium_2_Z.param
 
 	STGPOKEMONSTADIUM_Z_PS2_ABANDONED.pac
 	st_final.rel
-	Spear_Pillar.tlst
+	Pokemon_Stadium_2.tlst
 
 ################
 Poke_Floats.param
@@ -1719,6 +1731,217 @@ Rest_Area.param
 Results.param
 
 	STGRESULT.pac
+	
+	Results.tlst
+
+################
+Results_BC.param
+
+	STGRESULT_STGBOWSERCASTLE.pac
+	
+	Results.tlst
+
+################
+Results_BF.param
+
+	STGRESULT_STGBATTLEFIELD.pac
+	
+	Results.tlst
+
+################
+Results_CC.param
+
+	STGRESULT_STGCERESSPACECOLONY.pac
+	
+	Results.tlst
+
+################
+Results_DB.param
+
+	STGRESULT_STGBOWSERCASTLE_MR_BC_DRY.pac
+	
+	Results.tlst
+
+################
+Results_DE.param
+
+	STGRESULT_STGDEADLINE.pac
+	
+	Results.tlst
+
+################
+Results_DF.param
+
+	STGRESULT.pac
+	
+	Results.tlst
+
+################
+Results_DL.param
+
+	STGRESULT_STGDREAMLAND.pac
+	
+	Results.tlst
+
+################
+Results_DP.param
+
+	STGRESULT_STGDISTANTPLANET.pac
+	
+	Results.tlst
+
+################
+Results_DR.param
+
+	STGRESULT_STGDREAMLAND_R_DL_NIGHT.pac
+	
+	Results.tlst
+
+################
+Results_DS.param
+
+	STGRESULT_STGDELFINOSECRET.pac
+	
+	Results.tlst
+
+################
+Results_FD.param
+
+	STGRESULT_STGFINALDESTINATION.pac
+	
+	Results.tlst
+
+################
+Results_FH.param
+
+	STGRESULT_STGFRIGATEHUSK.pac
+	
+	Results.tlst
+
+################
+Results_FO.param
+
+	STGRESULT_STGFOUNTAINOFDREAMS.pac
+	
+	Results.tlst
+	SFX / GFX: 0x006E / 0x0033
+
+################
+Results_FR.param
+
+	STGRESULT_STGFRIGATEHUSK_R_FH_PHENDRANA.pac
+	
+	Results.tlst
+
+################
+Results_FZ.param
+
+	STGRESULT_STGFRIGATEHUSK_Z_FH_DROWNED.pac
+	
+	Results.tlst
+
+################
+Results_GH.param
+
+	STGRESULT_STGGREENHILLZONE.pac
+	
+	Results.tlst
+
+################
+Results_GT.param
+
+	STGRESULT_STGGOLDENTEMPLE.pac
+	
+	Results.tlst
+
+################
+Results_LM.param
+
+	STGRESULT_STGLUIGISMANSION.pac
+	
+	Results.tlst
+
+################
+Results_MC.param
+
+	STGRESULT_STGMETALCAVERN.pac
+	
+	Results.tlst
+
+################
+Results_PR.param
+
+	STGRESULT_STGPOKEMONSTADIUM_R.pac
+	
+	Results.tlst
+
+################
+Results_PS.param
+
+	STGRESULT_STGPOKEMONSTADIUM.pac
+	
+	Results.tlst
+
+################
+Results_PZ.param
+
+	STGRESULT_STGPOKEMONSTADIUM_Z_ABANDONED.pac
+	
+	Results.tlst
+
+################
+Results_SV.param
+
+	STGRESULT_STGSMASHVILLE.pac
+	
+	Results.tlst
+
+################
+Results_SZ.param
+
+	STGRESULT_STGSKYSANCTUARY.pac
+	
+	Results.tlst
+
+################
+Results_TD.param
+
+	STGRESULT_STGTRAININGROOM_MR_DARK.pac
+	
+	Results.tlst
+
+################
+Results_TO.param
+
+	STGRESULT_STGTEMPLEOFTIME_R_TOT_OOT.pac
+	
+	Results.tlst
+
+################
+Results_TR.param
+
+	STGRESULT_STGTRAININGROOM.pac
+	
+	Results.tlst
+
+################
+Results_TT.param
+
+	STGRESULT_STGTEMPLEOFTIME.pac
+	
+	Results.tlst
+
+################
+Results_WL.param
+
+	STGRESULT_STGWARIOLAND.pac
+	
+	Results.tlst
+
+################
+Results_YI.param
+
+	STGRESULT_STGYOSHISISLAND.pac
 	
 	Results.tlst
 
@@ -1907,14 +2130,14 @@ Sky_Sanctuary_Z.param
 Smashville.param
 
 	[Substages / Normal]
-	- STGSMASHVILLE_00_MORNING.pac
-	- STGSMASHVILLE_01_NOON.pac
-	- STGSMASHVILLE_02_DUSK.pac
-	- STGSMASHVILLE_03_NIGHT.pac
-	- STGSMASHVILLE_03_NIGHT.pac
-	- STGSMASHVILLE_03_NIGHT.pac
-	- STGSMASHVILLE_04_MIDNIGHT.pac
-	- STGSMASHVILLE_04_MIDNIGHT.pac
+	- STGSMASHVILLE_SV_GARDEN_00_MORNING.pac
+	- STGSMASHVILLE_SV_GARDEN_01_NOON.pac
+	- STGSMASHVILLE_SV_GARDEN_02_DUSK.pac
+	- STGSMASHVILLE_SV_GARDEN_03_NIGHT.pac
+	- STGSMASHVILLE_SV_GARDEN_03_NIGHT.pac
+	- STGSMASHVILLE_SV_GARDEN_03_NIGHT.pac
+	- STGSMASHVILLE_SV_GARDEN_04_MIDNIGHT.pac
+	- STGSMASHVILLE_SV_GARDEN_04_MIDNIGHT.pac
 
 	st_smashville_ht.rel
 	Smashville.tlst
@@ -1926,7 +2149,7 @@ Smashville_L.param
 
 	STGSMASHVILLE_L_SV_SAKURA.pac
 	st_smashville_ht.rel
-	Smashville_Sakura.tlst
+	Smashville.tlst
 	SFX / GFX: 0x0064 / 0x0032
 
 ################
@@ -2004,9 +2227,9 @@ Smashville_MR_08.param
 ################
 Smashville_R.param
 
-	STGSMASHVILLE_R_SV_BEACH.pac
-	st_smashville_ht.rel
-	Smashville_Tropical.tlst
+	STGGOLDENTEMPLE_R_SV_GOLDEN.pac
+	st_smashville_noambience.rel
+	Golden_Temple.tlst
 	SFX / GFX: 0x0064 / 0x0032
 
 ################
@@ -2014,7 +2237,7 @@ Smashville_Z.param
 
 	STGSMASHVILLE_Z_SV_OCEAN.pac
 	st_smashville_ht.rel
-	Smashville_Tropical.tlst
+	Smashville.tlst
 	SFX / GFX: 0x0064 / 0x0032
 
 ################
@@ -2120,7 +2343,7 @@ Temple_of_Time_L.param
 
 	STGTEMPLEOFTIME_L_ELDINPLATFORMS.pac
 	st_oldin_platforms.rel
-	Bridge_of_Eldin.tlst
+	Bridge_Of_Eldin.tlst
 	SFX / GFX: 0x005C / 0x0032
 
 ################
@@ -2135,7 +2358,7 @@ Temple_of_Time_R.param
 
 	STGTEMPLEOFTIME_R_TOT_OOT.pac
 	st_templeoftime.rel
-	Temple_of_Time_OoT.tlst
+	Temple_of_Time.tlst
 	SFX / GFX: 0x005F / 0x0032
 
 ################
@@ -2143,7 +2366,7 @@ Temple_of_Time_Z.param
 
 	STGTEMPLEOFTIME_Z_BRIDGEOFELDIN.pac
 	st_oldin.rel
-	Bridge_of_Eldin.tlst
+	Bridge_Of_Eldin.tlst
 	SFX / GFX: 0x0054 / 0x0064
 
 ################

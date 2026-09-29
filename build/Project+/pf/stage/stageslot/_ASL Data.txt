@@ -41,7 +41,7 @@ Z: Luigis_Mansion_Z.param
 
 
 ################
-05.asl - 6 entries
+05.asl - 7 entries
 
 Base: Metal_Cavern.param
 R: Metal_Cavern_R.param
@@ -49,6 +49,7 @@ L: Metal_Cavern_L.param
 Z: Metal_Cavern_Z.param
 0x4000: Metal_Cavern_MR_00.param
 0x8000: Metal_Cavern_ML_00.param
+0x8001: Metal_Cavern_ML_01.param
 
 
 ################
@@ -310,7 +311,7 @@ Base: Config.param
 ################
 28.asl - 1 alt stage
 
-Base: Results.param
+Base: Results_DF.param
 
 
 ################
