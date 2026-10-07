@@ -1099,7 +1099,7 @@ Kongo_Jungle_Z.param
 ################
 Luigis_Mansion.param
 
-	STGLUIGISMANSION.pac
+	STGLUIGISMANSION_LM_FOX.pac
 	st_final.rel
 	Luigis_Mansion.tlst
 	SFX / GFX: 0x004E / 0x0035
@@ -1107,9 +1107,10 @@ Luigis_Mansion.param
 ################
 Luigis_Mansion_L.param
 
-	STGLUIGISMANSION_L_KINGBOOILLUSION.pac
+	STGLUIGISMANSION_L_LM_DEFAULT.pac
 	st_final.rel
 	Luigis_Mansion.tlst
+	SFX / GFX: 0x004E / 0x0035
 
 ################
 Luigis_Mansion_R.param

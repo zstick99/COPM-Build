@@ -1625,12 +1625,12 @@ Luigis_Mansion.tlst - 15 tracks
 
 	Endless (Nubby's Number Factory)
 	Indie/Nubby's Number Factory/Endless.brstm
-	Volume: 140
+	Volume: 180
 	Frequency: 40
 
 	Rude Buster PS1 remix (Spy Trolling)
 	UTDR/Track 5 (Deltarune PS1).brstm
-	Volume: 80
+	Volume: 100
 	Frequency: 40
 
 	Rigged Game (Neon White)
@@ -1849,7 +1849,7 @@ Menu.tlst - 44 tracks
 
 	A Guitar's Rhythm (Napple Tale)
 	Retro/A Guitar's Rhythm (Napple Tale).brstm
-	Volume: 120
+	Volume: 140
 	Frequency: 80
 
 	Kelp Forest (Battle for Bikini Bottom)
