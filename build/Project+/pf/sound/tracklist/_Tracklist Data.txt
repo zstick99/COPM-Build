@@ -1357,7 +1357,7 @@ Green_Hill_Zone.tlst - 12 tracks
 
 	Ryu's Theme (Street Fighter 6)
 	FGC/Street Fighter/Ryu's Theme - Viator.brstm
-	Volume: 80
+	Volume: 90
 	Frequency: 40
 
 	Viewtiful Joe's Theme (Tatsunoko vs. Capcom)
@@ -1844,22 +1844,22 @@ Menu.tlst - 44 tracks
 
 	Whispering Rock (Psychonauts)
 	Retro/Whispering Rock (Psychonauts).brstm
-	Volume: 85
+	Volume: 90
 	Frequency: 80
 
 	A Guitar's Rhythm (Napple Tale)
 	Retro/A Guitar's Rhythm (Napple Tale).brstm
-	Volume: 100
+	Volume: 120
 	Frequency: 80
 
 	Kelp Forest (Battle for Bikini Bottom)
 	Licensed/Kelp Forest (Battle for Bikini Bottom).brstm
-	Volume: 85
+	Volume: 90
 	Frequency: 80
 
 	Wii Sports Music Be Like (Prod. By Malz)
 	OC/Wii Sports Music Be Like (Prod. By Malz).brstm
-	Volume: 90
+	Volume: 120
 	Frequency: 80
 
 	Feel The Heat! (Sega Bass Fishing)
@@ -1869,7 +1869,7 @@ Menu.tlst - 44 tracks
 
 	Diary Menu (Sega Bass Fishing)
 	SEGA/Diary Menu (Sega Bass Fishing).brstm
-	Volume: 80
+	Volume: 95
 	Frequency: 80
 
 	The Offing (Sega Marine Fishing)
@@ -1879,8 +1879,13 @@ Menu.tlst - 44 tracks
 
 	Shop (Sega Marine Fishing)
 	SEGA/Shop (Sega Marine Fishing).brstm
-	Volume: 85
+	Volume: 100
 	Frequency: 80
+
+	Mario Superstar Baseball: Main Menu
+	Mario/Mario Superstar Baseball - Main Menu.brstm
+	Volume: 80
+	Frequency: 40
 
 	Forest of Hope (Pikmin)
 	L02.brstm (0x279A)
@@ -1897,7 +1902,7 @@ Menu.tlst - 44 tracks
 
 	Latin 1 (The Sims)
 	Retro/The Sims - Latin Theme 1.brstm
-	Volume: 80
+	Volume: 90
 	Frequency: 80
 
 	sanctuary (Terraria Calamity)
@@ -1908,6 +1913,11 @@ Menu.tlst - 44 tracks
 	sherbet lobby (LuminousVale remix)
 	Indie/sherbet lobby (LuminousVale remix).brstm
 	Volume: 80
+	Frequency: 80
+
+	Title (Nubby's Number Factory)
+	Indie/Nubby's Number Factory/Title.brstm
+	Volume: 120
 	Frequency: 80
 
 	3DS Internet Settings
@@ -1930,19 +1940,14 @@ Menu.tlst - 44 tracks
 	Volume: 80
 	Frequency: 20
 
-	Training Mode (Marvel vs. Capcom 2)
-	FGC/Training Mode (Marvel vs. Capcom 2).brstm
-	Volume: 85
-	Frequency: 20
-
 	Actor's Anteroom (Melty Blood: Actress Again)
 	FGC/Melty Blood/Actor's Anteroom.brstm
 	Volume: 65
 	Frequency: 20
 
-	Django Django (Guilty Gear Xrd)
-	Guilty Gear/Django Django.brstm
-	Volume: 70
+	Training Mode (Marvel vs. Capcom 2)
+	FGC/Training Mode (Marvel vs. Capcom 2).brstm
+	Volume: 85
 	Frequency: 20
 
 	Clocktowers Beneath the Sea (A Hat in Time)
@@ -1978,11 +1983,6 @@ Menu.tlst - 44 tracks
 	Balatro Medley
 	Indie/Balatro.brstm
 	Volume: 140
-	Frequency: 20
-
-	Title (Nubby's Number Factory)
-	Indie/Nubby's Number Factory/Title.brstm
-	Volume: 120
 	Frequency: 20
 
 	Driving Force - Neon Fog (Katana ZERO)
@@ -3224,7 +3224,7 @@ Smashville.tlst - 14 tracks
 
 	The Cave of Abyss (Jerico's Law)
 	Indie/Touhou/The Cave of Abyss (Jerico's Law).brstm
-	Volume: 65
+	Volume: 60
 	Frequency: 60
 
 	Jamocha Shake-Up (Arby's PS1)
@@ -3239,7 +3239,7 @@ Smashville.tlst - 14 tracks
 
 	Ken's Theme (Street Fighter 6)
 	FGC/Street Fighter/Ken's Theme - Spirit of the Flame.brstm
-	Volume: 80
+	Volume: 95
 	Frequency: 60
 
 	Virtual Paradise (Neon White)
@@ -3844,14 +3844,11 @@ Yoshis_Island_Melee.tlst - 3 tracks
 	Frequency: 40
 
 ################
-Yoshis_Story.tlst - 2 tracks
+Yoshis_Story.tlst - 1 track
 
-	Ending (Yoshi's Story)
-	E01.brstm (0x2750)
-	Frequency: 40
-
-	Athletic (Yoshi's Island)
-	E07.brstm (0x2756)
+	Yoshi's Song (Melee ver.)
+	Nintendo/Yoshi's Song (Melee).brstm
+	Volume: 65
 	Frequency: 40
 
 ################
