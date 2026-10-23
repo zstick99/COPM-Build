@@ -2,44 +2,6 @@
   "CosmeticSettings": [
     {
       "CosmeticType": 1,
-      "Style": "CSS",
-      "InstallLocation": {
-        "FilePath": "pf\\menu2\\sc_selcharacter.pac",
-        "NodePath": "char_bust_tex_lz77",
-        "FileExtension": "pac"
-      },
-      "HDImageLocation": "BrawlInstaller\\Character Cosmetics\\",
-      "CreateHDTextureFolder": true,
-      "ModelPath": null,
-      "PatSettings": [],
-      "Prefix": "MenSelchrFaceB",
-      "Suffix": "",
-      "Multiplier": 10,
-      "Offset": 0,
-      "SuffixDigits": 3,
-      "GroupMultiplier": 1,
-      "FilePrefix": "",
-      "FileSuffix": "",
-      "IdType": 4,
-      "Size": {
-        "Width": 128,
-        "Height": 160
-      },
-      "Format": 9,
-      "FirstOnly": false,
-      "SeparateFiles": false,
-      "CompressionType": 257,
-      "FileType": 1,
-      "AlwaysInheritStyle": true,
-      "Required": true,
-      "Enabled": true,
-      "Selectable": false,
-      "AlwaysCreateArchive": true,
-      "PaletteCount": 256,
-      "ImportTextures": true
-    },
-    {
-      "CosmeticType": 1,
       "Style": "Result",
       "InstallLocation": {
         "FilePath": "pf\\menu\\common\\char_bust_tex\\",
@@ -2001,14 +1963,14 @@
         "Width": null,
         "Height": null
       },
-      "Format": 14,
+      "Format": 0,
       "FirstOnly": false,
       "SeparateFiles": false,
       "CompressionType": 0,
       "FileType": 1,
       "AlwaysInheritStyle": false,
       "Required": false,
-      "Enabled": true,
+      "Enabled": false,
       "Selectable": false,
       "AlwaysCreateArchive": true,
       "PaletteCount": 256,
@@ -2211,6 +2173,44 @@
       "Enabled": true,
       "Selectable": false,
       "AlwaysCreateArchive": false,
+      "PaletteCount": 256,
+      "ImportTextures": true
+    },
+    {
+      "CosmeticType": 1,
+      "Style": "CSS",
+      "InstallLocation": {
+        "FilePath": "pf\\menu\\common\\char_bust_alt\\",
+        "NodePath": "",
+        "FileExtension": "brres"
+      },
+      "HDImageLocation": "BrawlInstaller\\Character Cosmetics\\",
+      "CreateHDTextureFolder": true,
+      "ModelPath": null,
+      "PatSettings": [],
+      "Prefix": "MenSelchrFaceB",
+      "Suffix": "",
+      "Multiplier": 10,
+      "Offset": 0,
+      "SuffixDigits": 3,
+      "GroupMultiplier": 1,
+      "FilePrefix": "",
+      "FileSuffix": "",
+      "IdType": 4,
+      "Size": {
+        "Width": 128,
+        "Height": 160
+      },
+      "Format": 9,
+      "FirstOnly": false,
+      "SeparateFiles": false,
+      "CompressionType": 0,
+      "FileType": 1,
+      "AlwaysInheritStyle": true,
+      "Required": false,
+      "Enabled": true,
+      "Selectable": false,
+      "AlwaysCreateArchive": true,
       "PaletteCount": 256,
       "ImportTextures": true
     }
@@ -2473,6 +2473,10 @@
       {
         "FileType": 24,
         "Path": "pf\\stage\\switch\\Switch06.rss"
+      },
+      {
+        "FileType": 24,
+        "Path": "pf\\stage\\switch\\Switch07.rss"
       }
     ],
     "RandomStageNamesLocations": [
