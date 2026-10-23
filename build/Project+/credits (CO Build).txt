@@ -10,7 +10,7 @@ edited fitfighter.pacs: Marth, Fox
 06 - CoJoe DK by Zee
 
 -SAMUS-
-06 - Liz trans Samus by Zee
+07 - Liz trans Samus by Zee
 
 -YOSHI-
 40 - Madonna Yoshi by Zee and ilikepizza107
@@ -38,8 +38,8 @@ edited fitfighter.pacs: Marth, Fox
 30 - Meecrobs Shelda by ilikepizza107, with credit to HulkAlex for the Zelda model
 
 -ICE CLIMBERS-
-06 - Dank? ICs by Zee
-25 - maka ICs by influenza
+08 - Dank? ICs by Zee
+26 - maka ICs by influenza
 
 -MARTH-
 34 - Jenny Marth by Zee
@@ -92,9 +92,9 @@ edited fitfighter.pacs: Marth, Fox
 40 - Purple smiley Ivysaur by Zee
 
 -LUCARIO-
-11 - rose cat Lucario by Zee
-12 - maka Lucario by maka
-30 - Valnoir Lucario by Zee
+09 - rose cat Lucario by Zee
+10 - maka Lucario by maka
+40 - Valnoir Lucario by Zee
 
 -R.O.B.-
 24 - Shwang ROB by Zee
@@ -103,7 +103,7 @@ edited fitfighter.pacs: Marth, Fox
 06 - Saiyan armor Wolf by Zee
 
 -SNAKE-
-06 - Zee Snake by Zee
+08 - Zee Snake by Zee
 
 -ROY-
 09 - Atari Roy by ilikepizza107
