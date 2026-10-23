@@ -341,16 +341,16 @@ op fmr f3, f0	@ $8009E9B8
 op fmr f0, f1	@ $8009E9BC
 op fmr f0, f3	@ $8009E9C8
 
-##################################################
-Default Settings Modifier [Igglyboo, Brkirch, FMK]
-##################################################
+########################################################
+Default Settings Modifier [Igglyboo, Brkirch, and FMK]
+########################################################
 * 24494A98 80000000
 * 20523300 00000000
 * 04523300 DEADBEEF
 * 42000000 90000000
 * 0417F360 00000100
 * 0417F364 04000A00
-* 0417F368 08010100
+* 0417F368 08010000 #Hold Pause default
 * 0417F36C 00000000
 * E0000000 80008000
 
@@ -2297,6 +2297,7 @@ op fmr f0, f3 @ $8010c888
 .include Source/LegacyTE/Masquerade.asm
 .include Source/LegacyTE/TagsControls.asm
 .include Source/LegacyTE/CSSCustomControls.asm
+.include Source/Community/RANDSUB.ASM
 
 #############################################################################
 ###################          Visual/Audio Codes          ####################
