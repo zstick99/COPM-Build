@@ -1296,6 +1296,44 @@ Ganon_Castle.tlst - 5 tracks
 	Frequency: 40
 
 ################
+Gateway_Colosseum.tlst - 7 tracks
+
+	Gateway Colosseum
+	Pokemon/Gateway Colosseum.brstm
+	Volume: 75
+	Frequency: 40
+
+	Neon Colosseum
+	Pokemon/Neon Colosseum.brstm
+	Volume: 65
+	Frequency: 40
+
+	Waterfall Colosseum
+	Pokemon/Waterfall Colosseum.brstm
+	Volume: 80
+	Frequency: 40
+
+	Main Street Colosseum
+	Pokemon/Main Street Colosseum.brstm
+	Volume: 70
+	Frequency: 40
+
+	Stargazer Colosseum
+	Pokemon/Stargazer Colosseum.brstm
+	Volume: 80
+	Frequency: 40
+
+	Sunny Park Colosseum
+	Pokemon/Sunny Park Colosseum.brstm
+	Volume: 70
+	Frequency: 40
+
+	Sunset Colosseum
+	Pokemon/Sunset Colosseum.brstm
+	Volume: 75
+	Frequency: 40
+
+################
 Golden_Temple.tlst - 1 track
 
 	yung brownie. - Bramble Blast type beat
@@ -1513,6 +1551,29 @@ Hyrule_Castle_64.tlst - 5 tracks
 	C09.brstm (0x273B)
 	Frequency: 40
 	Song delay: -1
+
+################
+Hyrule_Temple.tlst - 5 tracks
+
+	Temple
+	W24.brstm (0x2816)
+	Frequency: 40
+
+	Great Temple / Temple
+	C03.brstm (0x2735)
+	Frequency: 40
+
+	The Dark World
+	C04.brstm (0x2736)
+	Frequency: 40
+
+	Black Mist
+	C05.brstm (0x2737)
+	Frequency: 40
+
+	Gerudo Valley
+	C13.brstm (0x273F)
+	Frequency: 40
 
 ################
 Icicle_Mountain.tlst - 2 tracks
@@ -2700,6 +2761,14 @@ Pumpkin_Hill.tlst - 1 track
 	Frequency: 40
 
 ################
+Radiant_Stadium.tlst - 1 track
+
+	Victory Road (Pokémon Ruby & Sapphire)
+	H06.brstm (0x2773)
+	Frequency: 40
+	Song delay: 84
+
+################
 Radical_Highway.tlst - 4 tracks
 
 	Right There, Ride On
@@ -3335,23 +3404,6 @@ Space_Colony_Ark.tlst - 3 tracks
 	Frequency: 40
 
 ################
-Space_Debris.tlst - 3 tracks
-
-	Space Armada
-	G10.brstm (0x276C)
-	Frequency: 40
-	Song delay: 88
-
-	Space Battleground
-	G07.brstm (0x2769)
-	Frequency: 40
-
-	Area 6
-	G11.brstm (0x276D)
-	Frequency: 40
-	Song delay: 72
-
-################
 Spear_Pillar.tlst - 5 tracks
 
 	Dialga / Palkia Battle at Spear Pillar!
@@ -3395,29 +3447,6 @@ Subspace.tlst - 5 tracks
 
 	Subspace Area
 	Y15.brstm (0x282D)
-	Frequency: 40
-
-################
-Temple.tlst - 5 tracks
-
-	Temple
-	W24.brstm (0x2816)
-	Frequency: 40
-
-	Great Temple / Temple
-	C03.brstm (0x2735)
-	Frequency: 40
-
-	The Dark World
-	C04.brstm (0x2736)
-	Frequency: 40
-
-	Black Mist
-	C05.brstm (0x2737)
-	Frequency: 40
-
-	Gerudo Valley
-	C13.brstm (0x273F)
 	Frequency: 40
 
 ################
