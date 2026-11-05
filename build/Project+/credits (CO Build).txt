@@ -5,6 +5,7 @@ edited fitfighter.pacs: Marth, Fox
 
 -MARIO-
 07 - Doop Mario by Zee
+16 - Synthwave Mario by SirGimmick
 
 -DONKEY KONG-
 06 - CoJoe DK by Zee
@@ -24,6 +25,11 @@ edited fitfighter.pacs: Marth, Fox
 09 - Star's Fox red by ilikepizza107
 10 - Star's Fox blue by Baka
 11 - Star's Fox green by ilikepizza107
+40 - James McCloud by bizzozeron
+41 - James McCloud (red) by mawwwk
+42 - James McCloud (blue) by mawwwk
+43 - James McCloud (green) by mawwwk
+44 - James McCloud (black) by mawwwk
 45 - Artemis Fox by ilikepizza107
 
 -LUIGI-
