@@ -14,7 +14,7 @@ edited fitfighter.pacs: Marth, Fox
 07 - Liz trans Samus by Zee
 
 -YOSHI-
-40 - Madonna Yoshi by Zee and ilikepizza107
+40 - Madonna Yoshi by Zee and ilikepizza107, render scene from T+
 
 -KIRBY-
 40 - Star Kirby red by influenza and ilikepizza107
@@ -52,7 +52,7 @@ edited fitfighter.pacs: Marth, Fox
 35 - Jenny Marth by Zee
 36 - Broncos Marth by Soully, with credit to ilikepizza107
 37 - Polear Marth by Zee
-40 - Artemis Marth by ilikepizza107
+40 - Artemis Marth by ilikepizza107, render scene by Tyle
 
 -MR. GAME & WATCH-
 17 - Meecrobs G&W by Zee
@@ -85,7 +85,7 @@ edited fitfighter.pacs: Marth, Fox
 42 - Star Pit green by SJS, Star, ilikepizza107
 
 -ZERO SUIT SAMUS-
-07 - Phantom Theif ZSS by ilikepizza107
+07 - Phantom Theif ZSS by ilikepizza107, render scene by VirtualBeef
 
 -OLIMAR-
 40 - Chef Olimar by Guttey
@@ -99,6 +99,10 @@ edited fitfighter.pacs: Marth, Fox
 40 - Star Lucas red by SJS, Star, ilikepizza107
 41 - Star Lucas blue by SJS, Star, ilikepizza107
 42 - Star Lucas green by SJS, Star, ilikepizza107
+43 - Chimera Lucas by ShinF, Mach 7, and the Brawl Minus Dev Team, renders by Cahalan
+44 - Chimera Lucas (blue) by ShinF, Mach 7, and the Brawl Minus Dev Team, renders by Cahalan
+45 - Chimera Lucas (green) by ShinF, Mach 7, and the Brawl Minus Dev Team, renders by Cahalan
+46 - Chimera Lucas (brown) by ShinF, Mach 7, and the Brawl Minus Dev Team, renders by Cahalan
 
 -DIDDY KONG-
 25 - Broncos hoodie by Zee
