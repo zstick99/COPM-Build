@@ -71,7 +71,6 @@ edited fitfighter.pacs: Marth, Fox
 29 - Akuma Ganon (green) by ilikepizza107
 40 - Joey Coors Ganon by ???
 
-
 -WARIO-
 12 - Zee Wario by Zee
 14 - Jr. Chaffles Wario by Zee
@@ -85,9 +84,15 @@ edited fitfighter.pacs: Marth, Fox
 41 - Star Pit blue by SJS, Star, ilikepizza107
 42 - Star Pit green by SJS, Star, ilikepizza107
 
+-ZERO SUIT SAMUS-
+07 - Phantom Theif ZSS by ilikepizza107
+
 -OLIMAR-
-40 - Chef Olimar by ???
-41 - Joey Olimar by ilikepizza107
+40 - Chef Olimar by Guttey
+41 - Chef Olimar (red) by Guttey
+42 - Chef Olimar (blue) by Guttey
+43 - Chef Olimar (green) by Guttey
+44 - Joey Olimar by ilikepizza107
 
 -LUCAS-
 26 - indisposed Lucas by Zee
