@@ -61,10 +61,16 @@ edited fitfighter.pacs: Marth, Fox
 09 - Alex Falco by Zee
 
 -GANONDORF-
-36 - yvonne Ganon by Zee, Hyrule Warriors Ganon from T+
-37 - Jenny Ganon by Zee, Hyrule Warriors Ganon from T+
+36 - Hyrule Warriors Ganon from T+
+37 - Hyrule Warriors Ganon (blue) from T+
+38 - yvonne Ganon by Zee, Hyrule Warriors Ganon from T+
+39 - Jenny Ganon by Zee, Hyrule Warriors Ganon from T+
+26 - Akuma Ganon by ilikepizza107
+27 - Akuma Ganon (red) by ilikepizza107
+28 - Akuma Ganon (blue) by ilikepizza107
+29 - Akuma Ganon (green) by ilikepizza107
 40 - Joey Coors Ganon by ???
-29 - Akuma Ganon by ilikepizza107
+
 
 -WARIO-
 12 - Zee Wario by Zee
