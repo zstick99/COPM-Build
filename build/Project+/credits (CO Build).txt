@@ -106,12 +106,18 @@ edited fitfighter.pacs: Marth, Fox
 
 -DIDDY KONG-
 25 - Broncos hoodie by Zee
+26 - Rockies hoodie by Zee
+27 - Nuggets hoodie by Zee
+28 - Avalanche hoodie by Zee
 
 -SQUIRTLE-
 10 - Madonna Squirtle by Zee
 
 -IVYSAUR-
 40 - Purple smiley Ivysaur by Zee
+
+-DEDEDE-
+11 - Dededrip by Metanite64
 
 -LUCARIO-
 09 - rose cat Lucario by Zee
