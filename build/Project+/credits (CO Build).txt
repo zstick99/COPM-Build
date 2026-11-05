@@ -94,7 +94,11 @@ edited fitfighter.pacs: Marth, Fox
 -LUCARIO-
 09 - rose cat Lucario by Zee
 10 - maka Lucario by maka
-40 - Valnoir Lucario by Zee
+40 - Mega Lucario by KingJigglypuff, renders by hulkalex
+41 - Mega Lucario (red) by KingJigglypuff, renders by hulkalex
+42 - Mega Lucario (green) by KingJigglypuff, renders by hulkalex
+43 - Mega Lucario (yellow) by KingJigglypuff, renders by hulkalex
+44 - Valnoir Lucario by Zee
 
 -R.O.B.-
 24 - Shwang ROB by Zee
