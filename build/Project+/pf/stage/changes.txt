@@ -1,0 +1,26 @@
+stage slot changes from vanilla P+
+
+-BATTLEFIELD-
+Base - always daytime BF
+R - redirect to Peach's Castle BF, removed lunar BF
+
+-SMASHVILLE-
+Base - Gardenville
+R - redirect to Golden Temple SV
+
+-PS2-
+Base - CO PS2
+L - vanilla PS2 replacing transforming PS2
+
+-TEMPLE OF TIME-
+R - changed tracklist to normal ToT
+
+-LUIGI'S MANSION-
+Base - Fox Mansion
+L - vanilla LM
+
+-FRIGATE HUSK-
+Base - Wario's Gold Mine
+L - Onion Ocean
+R - vanilla FH
+Z - Phendrana
