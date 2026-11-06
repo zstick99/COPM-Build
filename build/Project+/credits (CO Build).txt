@@ -19,7 +19,10 @@ edited fitfighter.pacs: Marth, Fox
 -KIRBY-
 40 - Star Kirby red by influenza and ilikepizza107
 41 - Star Kirby blue by influenza and ilikepizza107
-43 - Star Kirby green by influenza and ilikepizza107
+42 - Star Kirby green by influenza and ilikepizza107
+43 - Lovely Kirby by Zee, render pose by Joker, built on Star Kirby
+44 - Lovely Kirby (blue) by Zee, render pose by Joker, built on Star Kirby
+45 - Lovely Kirby (green) by Zee, render pose by Joker, built on Star Kirby
 
 -FOX-
 09 - Star's Fox red by ilikepizza107
