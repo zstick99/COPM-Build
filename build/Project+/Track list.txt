@@ -32,6 +32,7 @@ Amalgam (UNDERTALE)
 Chum Bucket Lab (Battle for Bikini Bottom)
 Hellion (Neon White)
 Archetype (Castle Crashers)
+THE RITUAL (Mesmalie)
 
 
 -DEAD LINE-
@@ -78,6 +79,7 @@ Neon Universe EX (Rivals of Aether)
 Polytrope (Cobalt Core)
 alyzea - crystal settings
 
+
 -GATEWAY COLOSSEUM (PS2 R alt)-
 Gateway Colosseum
 Neon Colosseum
@@ -86,6 +88,7 @@ Main Street Colosseum
 Stargazer Colosseum
 Sunny Park Colosseum
 Sunset Colosseum
+
 
 -GOLDEN TEMPLE (BANANAVILLE)-
 Bramble Blast type beat (yung brownie.)
@@ -110,6 +113,7 @@ caffeine rush (Untitled Tag Game)
 shwang - money on the favorite
 Final Antasma Battle (M&L Dream Team)
 Tombstone Arizona (Pizza Tower)
+Samantha (Stretch Panic)
 Potential for Anything (VVVVVV)
 Endless (Nubby's Number Factory)
 Rude Buster PS1 remix (Spy Trolling)
@@ -117,30 +121,29 @@ Rigged Game (Neon White)
 Sin to Win! (Neon White)
 Return To Slime (Terraria Calamity)
 Antarctic Reinforcement (Terraria Calamity)
-Archetype (Castle Crashers)
 An Oasis of Blood (Skullgirls)
 -PSYCH OUT- (Street Fighter 3rd Strike)
 Keep In Gates (Guilty Gear X2)
 Awakening The Chaos (BlazBlue: Calamity Trigger)
 
 
--MENU- [* indicates songs with a higher chance to play]
-*Whispering Rock (Psychonauts)
-*A Guitar's Rhythm (Napple Tale)
-*Kelp Forest (Battle for Bikini Bottom)
-*Wii Sports Music Be Like (Prod. By Malz)
-*Feel The Heat! (Sega Bass Fishing)
-*Diary Menu (Sega Bass Fishing)
-*The Offing (Sega Marine Fishing)
-*Shop (Sega Marine Fishing)
-*Mario Superstar Baseball: Main Menu
-*Forest of Hope (Pikmin)
-*World Map (Pikmin 2)
-*BoSIM Nova (The Sims)
-*Latin 1 (The Sims)
-*sanctuary (Terraria Calamity)
-*sherbet lobby (LuminousVale remix)
-*Title (Nubby's Number Factory)
+-MENU-
+Whispering Rock (Psychonauts)
+A Guitar's Rhythm (Napple Tale)
+Kelp Forest (Battle for Bikini Bottom)
+Wii Sports Music Be Like (Prod. By Malz)
+Feel The Heat! (Sega Bass Fishing)
+Diary Menu (Sega Bass Fishing)
+The Offing (Sega Marine Fishing)
+Shop (Sega Marine Fishing)
+Mario Superstar Baseball: Main Menu
+Forest of Hope (Pikmin)
+World Map (Pikmin 2)
+BoSIM Nova (The Sims)
+Latin 1 (The Sims)
+sanctuary (Terraria Calamity)
+sherbet lobby (LuminousVale remix)
+Title (Nubby's Number Factory)
 3DS Internet Settings
 Choose a Colosseum (Pokémon Battle Revolution)
 Tartarus 6th Block (Persona 3 Reload)
@@ -216,13 +219,13 @@ Ike: Victory Is Near (Fire Emblem: Path of Radiance)
 Mewtwo: Mewtwo Strikes Back (Project M)
 
 
--SMASHVILLE- [* indicates songs with a higher chance to play]
-*The Cave of Abyss (Jerico's Law)
-*Jamocha Shake-Up (Arby's PS1)
-*Midnight Meatride (Arby's PS1)
-*Ken's Theme (Street Fighter 6)
-*Virtual Paradise (Neon White)
-*Pressure Cooker (VVVVVV)
+-SMASHVILLE-
+The Cave of Abyss (Jerico's Law)
+Jamocha Shake-Up (Arby's PS1)
+Midnight Meatride (Arby's PS1)
+Ken's Theme (Street Fighter 6)
+Virtual Paradise (Neon White)
+Pressure Cooker (VVVVVV)
 Deep Mentality (Persona 3 Reload)
 Life Goes On (Persona 5)
 Moonlit Melee (Skullgirls)
