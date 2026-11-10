@@ -165,13 +165,17 @@ _________________________________________________
 
 -BATTLEFIELD-
 Base - daytime Battlefield by ilikepizza107
+R - Peach's Castle BF
 
 -LUIGI'S MANSION-
 Base - Fox Mansion by ilikepizza107
+L - default LM
 
 -FRIGATE HUSK-
 Base - Wario's Gold Mine WL skin by Electropolitan, Hyrule Meadows by Mawwwk, combination by Zee
 L - Onion Ocean by Star (Australia)
+R - Frigate Husk
+Z - Phendrana
 
 -POKEMON STADIUM 2-
 Base - Cabin Fever PS2 by Zee
@@ -179,6 +183,7 @@ L - Colorado Stadium by Zee, with credit to Blues
 
 -SMASHVILLE-
 Base - Gardenville by Red98, with updates by ilikepizza107, CO Balloon by Zee
+R - Golden Temple SV
 
 -METAL CAVERN-
 L+START - Big Metal Cavern by Mawwwk
