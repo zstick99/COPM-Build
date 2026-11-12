@@ -17,22 +17,22 @@ edited fitfighter.pacs: Marth, Fox
 40 - Madonna Yoshi by Zee and ilikepizza107, render scene from T+
 
 -KIRBY-
-40 - Star Kirby red by influenza and ilikepizza107
-41 - Star Kirby blue by influenza and ilikepizza107
-42 - Star Kirby green by influenza and ilikepizza107
+40 - Star Kirby (red) by influenza and ilikepizza107
+41 - Star Kirby (blue) by influenza and ilikepizza107
+42 - Star Kirby (green) by influenza and ilikepizza107
 43 - Lovely Kirby by Zee, render pose by Joker, built on Star Kirby
-44 - Lovely Kirby (blue) by Zee, render pose by Joker, built on Star Kirby
-45 - Lovely Kirby (green) by Zee, render pose by Joker, built on Star Kirby
+44 - Lovely Kirby (blue)
+45 - Lovely Kirby (green)
 
 -FOX-
 09 - Star's Fox red by ilikepizza107
 10 - Star's Fox blue by Baka
 11 - Star's Fox green by ilikepizza107
-40 - James McCloud by bizzozeron
-41 - James McCloud (red) by mawwwk
-42 - James McCloud (blue) by mawwwk
-43 - James McCloud (green) by mawwwk
-44 - James McCloud (black) by mawwwk
+40 - James McCloud by bizzozeron, recolors by Mawwwk
+41 - James McCloud (red)
+42 - James McCloud (blue)
+43 - James McCloud (green)
+44 - James McCloud (black)
 45 - Artemis Fox by ilikepizza107
 
 -LUIGI-
@@ -69,9 +69,9 @@ edited fitfighter.pacs: Marth, Fox
 38 - yvonne Ganon by Zee, Hyrule Warriors Ganon from T+
 39 - Jenny Ganon by Zee, Hyrule Warriors Ganon from T+
 26 - Akuma Ganon by ilikepizza107
-27 - Akuma Ganon (red) by ilikepizza107
-28 - Akuma Ganon (blue) by ilikepizza107
-29 - Akuma Ganon (green) by ilikepizza107
+27 - Akuma Ganon (red)
+28 - Akuma Ganon (blue)
+29 - Akuma Ganon (green)
 40 - Joey Coors Ganon by ???
 
 -WARIO-
@@ -83,29 +83,35 @@ edited fitfighter.pacs: Marth, Fox
 
 -PIT-
 50 - Meecrobs Pit by ilikepizza107
-40 - Star Pit red by SJS, Star, ilikepizza107
-41 - Star Pit blue by SJS, Star, ilikepizza107
-42 - Star Pit green by SJS, Star, ilikepizza107
+40 - Star Pit (red) by SJS, Star, ilikepizza107
+41 - Star Pit (blue) by SJS, Star, ilikepizza107
+42 - Star Pit (green) by SJS, Star, ilikepizza107
 
 -ZERO SUIT SAMUS-
-07 - Phantom Theif ZSS by ilikepizza107, render scene by VirtualBeef
+40 - 3C Cadet ZSS by ThePizzaDog, VirtualBeef, Layell, and MaybeGreg
+41 - 3C Cadet ZSS (red)
+42 - 3C Cadet ZSS (blue)
+43 - 3C Cadet ZSS (tan)
+44 - 3C Cadet ZSS (black)
+45 - 3C Cadet ZSS (white)
+46 - Phantom Theif ZSS by ilikepizza107, render scene by VirtualBeef
 
 -OLIMAR-
 40 - Chef Olimar by Guttey
-41 - Chef Olimar (red) by Guttey
-42 - Chef Olimar (blue) by Guttey
-43 - Chef Olimar (green) by Guttey
+41 - Chef Olimar (red)
+42 - Chef Olimar (blue)
+43 - Chef Olimar (green)
 44 - Joey Olimar by ilikepizza107
 
 -LUCAS-
 26 - indisposed Lucas by Zee
-40 - Star Lucas red by SJS, Star, ilikepizza107
-41 - Star Lucas blue by SJS, Star, ilikepizza107
-42 - Star Lucas green by SJS, Star, ilikepizza107
+40 - Star Lucas (red) by SJS, Star, ilikepizza107
+41 - Star Lucas (blue) by SJS, Star, ilikepizza107
+42 - Star Lucas (green) by SJS, Star, ilikepizza107
 43 - Chimera Lucas by ShinF, Mach 7, and the Brawl Minus Dev Team, renders by Cahalan
-44 - Chimera Lucas (blue) by ShinF, Mach 7, and the Brawl Minus Dev Team, renders by Cahalan
-45 - Chimera Lucas (green) by ShinF, Mach 7, and the Brawl Minus Dev Team, renders by Cahalan
-46 - Chimera Lucas (brown) by ShinF, Mach 7, and the Brawl Minus Dev Team, renders by Cahalan
+44 - Chimera Lucas (blue)
+45 - Chimera Lucas (green)
+46 - Chimera Lucas (brown)
 
 -DIDDY KONG-
 25 - Broncos hoodie by Zee
@@ -127,9 +133,9 @@ edited fitfighter.pacs: Marth, Fox
 09 - rose cat Lucario by Zee
 10 - maka Lucario by maka
 40 - Mega Lucario by KingJigglypuff, renders by hulkalex
-41 - Mega Lucario (red) by KingJigglypuff, renders by hulkalex
-42 - Mega Lucario (green) by KingJigglypuff, renders by hulkalex
-43 - Mega Lucario (yellow) by KingJigglypuff, renders by hulkalex
+41 - Mega Lucario (red)
+42 - Mega Lucario (green)
+43 - Mega Lucario (yellow)
 44 - Valnoir Lucario by Zee
 
 -IKE-
